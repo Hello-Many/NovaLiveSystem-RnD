@@ -1,63 +1,50 @@
-# NovaLiveSystem Runtime & Tooling Architecture
+# Runtime evidence guide
 
-NovaLiveSystem is not just a checkpoint; it is a living system that depends on a trio of runtime tools to keep its biomimetic organs synchronized. EchOrbElite, SparkLine, and EchoCopi each monitor a different axis of the tri-heartbeat (emotional, operational, cognitive). This document explains the role of each tool and its relevance to system integrity.
+**Reviewed October 7, 2026.** This page explains how to assess runtime claims. It does not launch
+NovaLiveSystem or distribute its private tools. See the [claim ledger](CAPABILITY_EVIDENCE.md).
 
----
+## What the evidence can establish
 
-## Overview
+| Evidence | Useful for | Does not establish |
+| --- | --- | --- |
+| Source inspection / static analysis | Implemented mechanisms and structural relationships | Successful execution of every route or complete fault coverage |
+| Native frontend, backend and routing traces | Corroborating the actual ingress, retrieval and response path of a dated run | General reliability outside the observed conditions |
+| Final-generation producer evidence | Distinguishing local generation from fallback/degradation | That every identity generated successfully |
+| Before/after protected-state records | Whether selected real-state files changed during an isolated run | Accurate recall or permanent memory |
+| SHA-256 over retained artifact bytes | Detecting changes to those bytes | Truth of the original observation, source authentication or cognitive recall |
+| A screenshot | A dated captured interface/output | Connected live telemetry, current operation or complete test coverage |
 
-- **Purpose:** Surface the observability layer that makes a distributed cognition engine trustworthy. The runtime tools demonstrate that PulseEngine, BridgeEngine, and Nova’s memory orbits are aligned at run time.
-- **Scope:** Each section below describes the tool’s role, the telemetry it exposes, and the supporting evidence available in this repository.
-- **Artifacts:** Redacted captures live in `NovaLiveSystem-Showcase/screenshots/` with hashes tracked in `manifest.json` so reviewers can verify integrity.
+## Historical tools and observations
 
----
+Earlier notes describe EchOrbElite as an architectural analyzer, SparkLine as a diagnostic interface
+and EchoCopi as continuity/integrity tooling. Those roles do not prove every signal is reachable,
+every probe originates in one interface or every session is permanently preserved.
 
-## EchOrbElite (EOE)
+October 2026 isolated runs observed local language generation. A later feature-branch provenance
+run truthfully reported an identity-specific overflow/fallback condition. Source-label acceptance
+and generation-health acceptance must be recorded separately.
 
-**Role:** EchOrbElite is the system’s **anatomical scanner**. It performs deep static analysis of the codebase to map `Signal` pathways, detect orphaned brain regions, and verify the structural integrity of the PulseEngine's wiring. It ensures the "nervous system" is fully connected before the system ever wakes up.
+The [architecture](architecture_overview.md) describes the current conceptual memory/routing map.
+EchoCopi terminology in older documents should not replace RiverPulse, EchoMemory, MemoryEngine and
+context assembly with one checksum service.
 
-**Relevance:** **Validates architectural integrity.** EOE proves that the distributed cognition engine is physically capable of communication. It audits the code to ensure every `Signal` has a destination and every brain region is reachable, preventing "lobotomized" states where modules run in isolation.
+## Current demonstration requirements
 
-**Artifact:**
+Current public demonstrations are pending an approved disposable full UI environment and synthetic
+recall/restart procedure. Each demonstration must record revision, model/hardware/configuration,
+input/identity, expected steps, observed outputs, cases/repeats, scoring, native trace references,
+protected-state checks, failures and limitations.
 
-![EchOrbElite UI Screenshot 2025-11-23](screenshots/EchOrbElite UI Screenshot 2025-11-23.png)
+A genuine recall demonstration uses an actual graceful official-runtime restart and declared fact
+cases. Constructing another storage object or verifying a file hash is insufficient.
+Private logs/state remain private; reviewed summaries and captures are released separately.
 
-- Screenshot hash: `D578E793C9DE620A18E6F50BA06B95918CD77F8A3ABC666DF71BC9CAEBC16A27` (see `screenshots/manifest.json`).
-- Capture date: 2025-11-23. Historical capture showing the HUD used to validate Stage10 heartbeats.
+## Historical media
 
----
+The existing [screenshots directory](screenshots/) contains eleven November–December 2025 PNGs.
+The [manifest](screenshots/manifest.json) contains ten entries and no hash fields; one capture is
+unlisted. The earlier claim that all hashes were tracked is withdrawn.
 
-## SparkLine Interface
-
-**Role:** SparkLine is the neural interface—Nova’s live console. It is how we drive probes, watch guardrail responses, and yank telemetry on demand.
-
-**Relevance:** Validates probe execution and dataset integrity. Every drift probe, dataset validation, and literal-logit run originates here. Reviewers can see the exact terminal output via redacted captures (`Guardrail Probe Screenshot...`, `Literal Logit Report...`). SparkLine anchors the “prove it” story: prompts on the left, Nova’s disciplined outputs on the right, plus timestamps.
-
-**Key signals:**
-
-- Drift suite execution (`artifacts/tests/calibration/`).
-- Dataset validation summaries (`tools/validation/validate_dataset.py`).
-- Literal logit diagnostics for telemetry anchors (`tools/analysis/literal_logit_diagnostics.py`).
-
----
-
-## EchoCopi Continuity Engine
-
-**Role:** EchoCopi is the checksum brainstem. It records every session, validates SHA-256 hashes, and ensures Nova’s memory orbits stay authentic. When a model reset happens, we call `from echo_copi import copi; e.verify_session(...)` to prove the log wasn’t tampered with.
-
-**Relevance:** Provides a tamper-evident ledger. The continuity engine proves “Nova remembers” without exposing RiverPulse internals. It also powers the “My Issues” automation—each GitHub checklist step ties back to an EchoCopi trail entry.
-
-**Artifacts:**
-
-- `artifacts/copilot_evolution/copilot_evolution.json` (summary ledger).
-- `artifacts/copilot_evolution/session_*.jsonl` (per-session receipts with SHA-256 verification).
-- `echo_copi.py` (implementation reference, including heartbeat verification functions).
-
----
-
-## References
-
-- `NovaLiveSystem-Showcase/screenshots/manifest.json`
-- `logs/sparkline_session_20251123_212216.log`
-- `artifacts/copilot_evolution/`
-- `docs/PULSE_ECHO_HEARTBEAT_ARCHITECTURE.md`
+Captions, metadata, rights and privacy still require the scheduled media review. The EchOrbElite HUD
+is a historical interface capture, not evidence that its displayed values are current live telemetry.
+No new screenshot or hash certification is made here.

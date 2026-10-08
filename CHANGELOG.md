@@ -1,4 +1,17 @@
-﻿# Changelog
+# Changelog
+
+## [2026-10-07] Evidence corrections
+
+- Added a claim ledger and corrected outdated conceptual topology and model descriptions.
+- Local language serving has dated observation evidence; the older “100% local” statement below
+  does not establish multimodal locality or complete data-flow guarantees.
+- Historical async conversion notes are engineering context, not current concurrency/performance proof.
+- Earlier loss, perplexity, speed, training-time, no-drift and zero-corruption figures below are
+  historical reports without sufficient public method for present reliability or superiority claims.
+- Integrity checks detect changes to retained bytes; they do not prove recall or permanent retention.
+
+**Historical record below.** Original wording is preserved with its reported dates. Its classifications
+and limitations are in [CAPABILITY_EVIDENCE.md](CAPABILITY_EVIDENCE.md); it is not current certification.
 
 All notable changes to the **NovaLiveSystem** project will be documented in this file.
 

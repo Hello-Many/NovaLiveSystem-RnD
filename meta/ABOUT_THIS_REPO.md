@@ -1,65 +1,45 @@
-# About This Repository
+# About this repository
 
-This repository contains public-facing documentation, diagrams, and validation
-results for the NovaLiveSystem project. It exists to support transparency,
-grant review, sponsorship outreach, and future research collaboration.
+This is the public research showcase for **NovaLiveSystem**, developed by
+**SparkPlugged Technology Solutions LLC**, founded by **Ifejah “Spark” Greene**.
 
-The full implementation—including model weights, training pipelines, datasets,
-and internal architecture—remains private while in active development to ensure
-safety, IP protection, and ethical release timing.
+It contains conceptual architecture, claim classifications and dated development artifacts.
+It supports investor and government R&D review; it is not the executable system or a validated
+customer/laboratory deployment.
 
-## Why Some Components Are Private
+## Evidence scope
 
-- Models are experimental and not yet ready for public deployment
-- Internal data structures require safeguards before release
-- Protects proprietary work during early-stage development
-- Prevents misuse or premature commercialization
+The [evidence ledger](../CAPABILITY_EVIDENCE.md) distinguishes implemented source, dated observation,
+historical reports and proposed work. Fresh demonstrations and application-specific evaluations
+have their own acceptance criteria. A historical claim, a diagram or a screenshot is not current
+runtime certification.
 
-This is a research and development environment, not a product release.
+Older grant, roadmap, hardware, sponsorship and migration documents are historical inputs awaiting
+their scheduled review. Their dates, metrics, terms and amounts are not adopted as current facts.
 
-## What This Repo Contains
+## Runtime, identity and operator environment
 
-- architecture descriptions
-- system philosophy
-- documentation of training results
-- logs and screenshots (redacted)
+NovaLiveSystem is the integrated cognitive runtime; Nova is its AI identity.
+NovaCortex IDE is a separate operator environment. Implemented interfaces, live connectors, mock data
+and proposed laboratory adapters are different evidence categories.
 
-## What It Does Not Contain
+Planning and governed-action components exist. Authority remains subject to explicit boundaries,
+scoped tools, approvals and oversight; a blanket claim of unrestricted autonomy or no planning
+capability would misdescribe the system.
 
-- execution code
-- model artifacts
-- raw training data
-- internal tooling
+Biomimetic terminology describes software mechanisms and research intent. It does not establish
+consciousness, biological equivalence or measured benefit to any population.
 
-Those assets exist but are intentionally withheld until safety, legal, and
-ethical conditions for release are met.
+## Proprietary and privacy boundaries
 
-## About NOVA™ (Conversational Layer)
+The runtime source, datasets, model weights, raw logs and private operational memory are not included.
+Detailed internal records remain private; controlled diligence requires separately approved purpose,
+terms and disclosure scope.
 
-NOVA™ is the user-facing conversational layer built on top of
-NovaLiveSystem’s cognitive architecture. It focuses on:
+See [LICENSE](../LICENSE) for permitted use. Public viewing does not transfer implementation,
+training or commercial rights. Third-party models, data and dependencies retain their own rights;
+this repository does not claim company ownership of those assets.
 
-- memory continuity over time
-- calm emotional regulation and stability
-- contextual reasoning grounded in user history
-- reflective responses rather than reactive output
+[Contact and current access policy](CONTACT.md).
 
-NOVA does not act independently or pursue autonomous goals; it is designed
-to support human cognition, not replace it.
-
-## Purpose of the Name
-
-NOVA originally meant **Neurodivergent Omnipotence Vector Ascension** —  
-a mission statement describing empowerment and cognitive growth,
-especially for neurodivergent builders and mothers.
-
-This describes intent, not capability.
-
-## Authorship & Rights
-
-All content is original work by:
-
-**Ifejah “SparkSupernova” Greene**
-
-See `LICENSE` for conditions of use and attribution.
 © 2026 SparkPlugged Technology Solutions LLC. All rights reserved.

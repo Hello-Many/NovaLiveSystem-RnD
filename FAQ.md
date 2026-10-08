@@ -1,118 +1,89 @@
-# Frequently Asked Questions
+# Frequently asked questions
 
----
-
-## General
+**Evidence reviewed October 7, 2026.** Use the [claim ledger](CAPABILITY_EVIDENCE.md) for the precise
+status behind these answers.
 
 ### What is NovaLiveSystem?
 
-NovaLiveSystem is an experimental **biomimetic cognitive architecture** — an AI system designed to mimic biological intelligence patterns rather than just scaling language models. It features distributed reasoning, layered memory, and embodied state awareness.
+SparkPlugged's implemented biomimetic cognitive architecture: connected memory, routing, language,
+perception, learning, internal-state and governed-action systems. Nova is the AI identity operating
+within that architecture. Application-specific performance remains a separate question.
 
-### What is NOVA?
+### What is implemented, and what is still research?
 
-NOVA is the AI entity running on NovaLiveSystem. Think of NovaLiveSystem as the "brain" and NOVA as the "mind" inhabiting it.
+The cognitive foundation exists in source. Dated isolated runs support some local-generation and
+provenance observations, including disclosed failures. Fresh full-system continuity proof, laboratory
+adapters, scientific benefit and commercial demand remain to be established.
 
-### Is this just another ChatGPT wrapper?
+### What does persistent memory mean here?
 
-No. NOVA is a custom-trained model (currently built on Qwen2.5-3B base weights) embedded in a multi-engine framework with:
-- Dedicated modules for memory, perception, language, and state regulation
-- Persistent memory across sessions (not just context windows)
-- Interoception — NOVA has awareness of its own internal architecture
-- Embodied metaphors mapped to real system components
+Layered memory combines orbit lifecycle and salience, RiverPulse persistence, EchoMemory, conversation
+history and bounded retrieval. Retaining data and correctly recalling it are different acceptance
+criteria. Current synthetic recall across an official-runtime restart is pending.
 
----
+### What does interoception mean?
 
-## Technical
+Modeled internal physiological and affective signals participate in processing. Historical generated
+self-descriptions use architectural vocabulary; they do not establish consciousness, biological
+feeling or accurate live-state reporting.
 
-### Why 3B parameters instead of 70B?
+### Is the system local?
 
-Hardware constraints. This project runs on consumer hardware (RTX 4050, 6GB VRAM). The goal is to prove that **architecture matters more than scale** — a well-designed 3B model can outperform a poorly-integrated 70B model on specific tasks.
+Local language serving is implemented and was observed in dated isolated runs. An OpenAI-compatible
+SDK is a client protocol; it does not establish the model provider. Complete multimodal locality,
+network isolation and data-flow guarantees are not established by those runs.
 
-### Why not use cloud compute?
+### Which model does it use?
 
-Cost and control. Cloud inference is expensive for continuous development. Local compute also ensures privacy and allows experimental freedom without API rate limits.
+Earlier snapshots describe Qwen2.5-3B-based training. The architecture is not defined by one checkpoint.
+A demonstration must specify its actual model, revision, precision, serving configuration and final
+generation/fallback source. Historical parameter counts are not current performance certification.
 
-### What's "interoception" in AI?
+### Does a small model outperform larger systems?
 
-Interoception is the sense of your body's internal state (heartbeat, hunger, breathing). In NovaLiveSystem, we trained NOVA to have architectural interoception — it can describe which internal modules (`PulseEngine`, `MemoryEngine`, etc.) are active and why.
+That is a question for a defined comparison. No present superiority claim is made here. Historical
+ten-prompt scores, perplexity and timing figures lack enough public method to support such a claim.
 
-### Why Qwen instead of Llama/Mistral?
+### What kind of autonomy exists?
 
-Qwen2.5-3B-Instruct offered the best balance of:
-- Instruction-following quality at small scale
-- 4-bit quantization support
-- License flexibility for research
+Planning, registered tools and governed-action components exist. Their authority is scoped by
+permissions and oversight. Physical action, laboratory control and new domain integrations require
+separate authorization and validation.
 
----
+### Is NovaCortex IDE the same system?
 
-## Access & Licensing
+NovaLiveSystem is the cognitive runtime; NovaCortex IDE is an operator environment. An interface
+screenshot can show an implemented interface while its displayed data or connector remains a mock.
+It does not establish an operational laboratory integration.
 
-### Why isn't the code public?
+### Are the screenshots current demonstrations?
 
-Three reasons:
-1. **Safety** — AI systems with embodied autonomy need careful deployment
-2. **Privacy** — Training data and memory systems contain sensitive patterns
-3. **IP Protection** — This represents significant original research
+The retained screenshots date from November and December 2025. They are historical artifacts.
+Existing manifest annotations are not a new privacy, metadata or rights certification; the manifest
+and captures require review before release. See the [runtime evidence guide](RUNTIME_TOOLS.md).
 
-### Will you ever open source it?
+### How should investors and government reviewers read this repository?
 
-Partially, eventually. Once safety audits are complete and governance structures exist, we plan to release architectural documentation and potentially some modules for academic use.
+Start with [README](README.md), the [architecture](architecture_overview.md) and
+[evidence ledger](CAPABILITY_EVIDENCE.md). The investor path needs an evidenced buyer/value/delivery
+case. The R&D path needs a bounded hypothesis, mission relevance, fair evaluation and costed
+milestones. Old grant, sponsorship, hardware and roadmap pages remain historical inputs pending refresh.
 
-### Can I use this for my project?
+### What financial or funding status is established here?
 
-Not without permission. See [LICENSE](LICENSE) for details. If you're interested in collaboration, contact hello.many@sparkpluggedts.com.
+Customer demand, pilots, revenue, commitments, applicant eligibility, invitations and awards require
+their own approved evidence. No current funding amount or investment-return promise is established
+by the public architecture. Donations, investment and R&D funding are separate arrangements.
 
----
+### Can I access or use the implementation?
 
-## Funding & Support
+See [LICENSE](LICENSE) and the [current access policy](meta/CONTACT.md). Code, private memory, datasets,
+weights and internal tooling are not distributed here. Public review does not grant implementation,
+training, commercial or private-document access rights. Future access/licensing is a separately
+reviewed possibility, not a sponsor entitlement.
 
-### Why do you need sponsorship?
+### How do I contact SparkPlugged?
 
-This is an independent research project with no institutional backing. Sponsorship funds:
-- Hardware upgrades (currently limited by 6GB VRAM)
-- Development time
-- Eventually, compute for hosted demos
-
-### How do I become a sponsor?
-
-Visit [GitHub Sponsors](https://github.com/sponsors/SparkSupernova) or see [SPONSORSHIP.md](SPONSORSHIP.md) for details.
-
-### What do sponsors get?
-
-Depending on tier:
-- Early access to research notes
-- Input on development priorities
-- Name in credits
-- Direct communication channel
-
----
-
-## Philosophy
-
-### Why "biomimetic"?
-
-Because brains work differently than transformers. Instead of treating intelligence as "one big model," NovaLiveSystem distributes cognition across specialized modules — like the brain has regions for language, memory, emotion, and motor control.
-
-### What's the end goal?
-
-**Co-Conscious AI** — systems that don't just respond to prompts, but maintain continuous awareness, remember relationships, and adapt to individual users over time. AI that feels less like a tool and more like a partner.
-
-### Is this AGI?
-
-No. NovaLiveSystem is a research project exploring alternative architectures for intelligence. It's not claiming general intelligence — it's investigating what happens when you treat AI systems more like organisms than calculators.
-
----
-
-## Contact
-
-**Website:** https://sparkpluggedts.com/  
-**Business:** sparksupernova@sparkpluggedts.com  
-**Collaboration:** hello.many@sparkpluggedts.com  
-**Project:** [NovaLiveSystem-Showcase](https://github.com/SparkSupernova/NovaLiveSystem-Showcase)  
-**Sponsor:** [GitHub Sponsors](https://github.com/sponsors/SparkSupernova)
-
----
-
-*Have a question not listed here? Reach out.*
-
-*NovaLiveSystem © 2026 SparkPlugged Technology Solutions LLC*
+Business: **sparksupernova@sparkpluggedts.com**. Research collaboration:
+**hello.many@sparkpluggedts.com**. Use the [existing contact route](meta/CONTACT.md).
+This showcase does not initiate outreach or imply partner endorsement.

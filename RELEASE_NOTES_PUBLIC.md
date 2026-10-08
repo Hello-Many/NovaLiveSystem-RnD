@@ -1,22 +1,20 @@
-# NovaLiveSystem Showcase — November 2025 Snapshot
+# Historical release notes — November–December 2025
 
-## Highlights
-- **GRPO Breakthrough:** First successful reinforcement learning run (`nova_grpo_v1`) on consumer hardware (RTX 4050).
-- **Inference Success:** 10/10 pass rate on holdout probes following RL training.
-- **Architecture Evolution:** Transitioned to a 3-stage pipeline (Base → SFT → GRPO) for cleaner separation of capability and alignment.
-- **Control Data:** 7,700+ validated samples across grounding, discipline, and guardrail categories.
+**Current classification reviewed October 7, 2026.** These notes summarize earlier development
+reports. They are not a current product release or performance certificate.
 
-## Included Artifacts
-- `README.md` — public-facing architecture brief and collaboration context.
-- `training_results.md` — checkpoint metrics, drift analysis, and next-step plan.
-- `screenshots/*.png` — redacted validation captures (historical v22 era; new UI captures pending).
-- `meta/` — contact details and repository scope notes.
+Earlier public notes reported SFT/GRPO training, consumer-GPU runs and ten selected inference passes.
+The public snapshot does not establish the full test definition, scoring, complete outputs or
+representative coverage. Historical curriculum/sample counts do not establish current safety or quality.
 
-## Known Gaps
-1. **Telemetry Vocabulary:** Specific technical vocabulary for internal system monitoring is still being expanded in the training set.
-2. **UI Updates:** Screenshots in this repo reflect the previous iteration (v22); updated visuals for the GRPO-era interface are forthcoming.
+The retained PNGs are dated development artifacts. Fresh full-runtime demonstrations, reviewed media
+metadata and application evaluations remain pending.
 
-## Suggested Next Steps for Reviewers
-- Examine `training_results.md` to understand the new GRPO architecture and results.
-- Review `Grant One-Pager.md` for the current funding and research roadmap.
-- Reach out via `meta/CONTACT.md` for collaboration, grant discussions, or research partnerships.
+Use [CAPABILITY_EVIDENCE.md](CAPABILITY_EVIDENCE.md) for current claim classifications,
+[README](README.md) for the architecture overview and [RUNTIME_TOOLS.md](RUNTIME_TOOLS.md)
+for evidence limits. The previously advertised evaluation reports are absent from the inspected public snapshot.
+This ledger supplies the available claim classifications.
+
+The existing grant, roadmap, sponsorship and hardware pages remain historical planning inputs until
+their funding-phase refresh. Their metrics, dates, benefits and amounts are not adopted as current facts.
+[Contact and access policy](meta/CONTACT.md) · [License](LICENSE).
