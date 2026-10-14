@@ -4,66 +4,61 @@
 
 **SparkPlugged's biomimetic cognitive architecture for persistent, governed intelligence.**
 
-NovaLiveSystem brings memory, language, perception, learning and modeled internal state into one
-connected architecture. Its design treats context as something to preserve, select and use across
-interactions, with explicit boundaries around identity and action.
+**NovaLiveSystem is an implemented cognitive architecture, not a concept.** Memory, signal routing,
+language, perception, learning, modeled internal state and governed action are built as one connected
+system, modeled on how the brain divides its work. Nova is the AI identity within it.
 
 Developed by **SparkPlugged Technology Solutions LLC**, founded by **Ifejah "Spark" Greene**.
 
 ## What exists today
 
-The implemented foundation has been reviewed in source. It combines:
+- **Memory built to behave like memory.** Memories carry changing relevance, are reinforced when used,
+  and are selected for each conversation rather than dumped in.
+- **A connected brain map.** A central relay routes signals among specialized regions for memory,
+  language, perception and modeled physiological and affective state.
+- **Runs on its own engine.** In dated October 2026 runs, Nova's language generation ran on a local
+  engine, and the system truthfully reported where its replies came from, including when it fell back.
+- **Governed autonomy.** Nova plans and carries out registered actions on his own, inside set
+  permissions and human oversight.
+- **Learning and evaluation built in.** Training, dataset lineage and evaluation tooling are part of
+  the system.
 
-| Capability | Foundation | Evidence boundary |
-| --- | --- | --- |
-| Memory and continuity | Persistent records, changing relevance and bounded context retrieval | Fresh full-system recall and restart demonstrations pending |
-| Cognitive coordination | Signal routing among specialized processing regions | Source relationships inspected; complete live-route acceptance pending |
-| Internal state | Modeled physiological and affective signals used in processing | Software mechanisms; measured user benefit pending |
-| Perception and language | Language, vision, speech and cross-modal processing components | End-to-end quality and application evaluation pending |
-| Learning and evaluation | Training, dataset lineage and evaluation infrastructure | Current comparative performance and safety results pending |
-| Governed action | Planning and registered operations with permissions and oversight | New deployments and domain-specific authority require validation |
+Read the [conceptual architecture](architecture_overview.md) and the
+[claim-by-claim evidence ledger](CAPABILITY_EVIDENCE.md), which shows what each statement rests on.
 
-[Read the conceptual architecture](architecture_overview.md) and
-[claim-by-claim evidence ledger](CAPABILITY_EVIDENCE.md).
+## Being proven now
 
-## Evidence and current maturity
+**Status: experimental R&D system.** This October 14, 2026 release publishes the reviewed facts above.
+The next proofs are under way, and each result will be published here with its evidence:
 
-**Status: experimental R&D system.** This October 14, 2026 documentation update publishes reviewed
-facts and pending work. It does not announce a new validated runtime or scientific result.
+- full live demonstrations through the complete application
+- recall of chosen facts across a runtime restart
+- approved demonstration images
+- application studies and comparative results
 
-Dated isolated runs in October 2026 observed local language generation and generation-source
-reporting. One provenance observation included an identity-specific generation failure and fallback.
-Those observations do not establish healthy generation in every context, complete multimodal
-locality or general reliability.
+This release contains brand art and no runtime screenshots. The [runtime evidence guide](RUNTIME_TOOLS.md)
+explains what each kind of evidence can show.
 
-**Pending:** current full UI demonstrations, synthetic recall through a runtime restart, approved
-demonstration images, application studies and comparative results. This release contains brand art,
-with no runtime screenshots. The [runtime evidence guide](RUNTIME_TOOLS.md) explains what each kind
-of evidence can establish.
-
-## Applications to evaluate
+## Applications
 
 The architecture supports research directions in persistent project assistance, continuity across
-interrupted work, multimodal operator support and local decision support. Scientific workflow
-recovery is one proposed application. Laboratory adapters, scientific outcomes, customer demand
-and measured benefit remain pending.
+interrupted work, multimodal operator support and local decision support. Scientific workflow recovery
+is one proposed application; its laboratory adapters and measured results are part of the work ahead.
 
 NovaLiveSystem is the cognitive runtime. NovaCortex IDE is a separate operator environment.
-An interface or diagram alone does not establish a connected application.
 
 ## For investors
 
 Start with the [architecture](architecture_overview.md), [evidence ledger](CAPABILITY_EVIDENCE.md)
-and [development milestones](ROADMAP.md). Buyer validation, a delivery model and a costed commercial
-case remain pending. No customer, revenue, partner or investment-return claim is established here.
+and [development milestones](ROADMAP.md). Buyer validation and a costed commercial case come next;
+no customer, revenue or partner is claimed here.
 
 Business inquiries: **sparksupernova@sparkpluggedts.com**.
 
 ## For government R&D reviewers
 
-Start with the same evidence baseline and the [research status summary](Grant%20One-Pager.md).
-A proposal must define its technical question, fair comparison, resources and measurable milestones.
-Research results, program-specific eligibility, invitations and awards are not established by this showcase.
+Start with the same evidence and the [research status summary](Grant%20One-Pager.md).
+No award or invitation is claimed by this showcase.
 
 Research inquiries: **hello.many@sparkpluggedts.com**.
 

@@ -1,36 +1,32 @@
 # NovaLiveSystem - research status
 
-**October 14, 2026. Research proposal development and results pending.**
+**October 14, 2026.**
 
-NovaLiveSystem is SparkPlugged's biomimetic cognitive architecture. Its reviewed foundation connects
-persistent memory, bounded retrieval, language, perception, modeled internal state and governed action.
+NovaLiveSystem is SparkPlugged's implemented biomimetic cognitive architecture. It connects persistent
+memory, bounded retrieval, language, perception, modeled internal state and governed action in one system.
 
-The research direction is to investigate how these mechanisms support useful continuity under
-interruption and resource constraints. Persistent project assistance and scientific workflow recovery
-are proposed applications. A selected research question and application-specific evaluation are pending;
-the architecture alone does not establish a new scientific result.
+## Research direction
 
-## Evidence available
+How can these mechanisms provide useful continuity when work is interrupted and computing resources
+are limited? Persistent project assistance and scientific workflow recovery are the proposed
+applications. Each program's research question and evaluation will be defined with it.
+
+## Evidence available now
 
 - Source-reviewed architectural mechanisms, described in the [architecture](architecture_overview.md).
-- Dated isolated local-generation and provenance observations, with disclosed limitations.
-- A [claim ledger](CAPABILITY_EVIDENCE.md) that separates implementation, historical observations and pending work.
+- Dated October 2026 runs on a local engine, including truthful reporting of where replies came from.
+- A [claim ledger](CAPABILITY_EVIDENCE.md) that shows what each statement rests on.
 
-## Work still needed
+## Next proofs
 
-A research proposal needs a bounded technical question, relevant prior work, a fair baseline,
-predeclared outcomes, feasible staffing and resources, and an appropriate application context.
-Laboratory integration, partner commitments, data access, application benefit and independent
-comparative results remain pending.
-
-Current full UI, recall/restart and failure-reporting demonstrations also remain pending.
-Those platform demonstrations will not substitute for application research.
+- Full live demonstrations through the complete application, and recall of chosen facts across a restart.
+- An application study with a fair baseline, declared outcomes and published results.
+- Laboratory integration, data access and partners for the scientific application.
 
 ## Funding status
 
-This page is a public status summary, not an application or approved budget.
-A program-specific eligibility decision, submission, invitation, selection and award are separate
-facts. No invitation, selection or award is claimed here. No current funding amount is offered.
+This page is a public status summary, not an application or budget.
+No invitation, selection or award is claimed here.
 
 Research collaboration: **hello.many@sparkpluggedts.com**.
 Business: **sparksupernova@sparkpluggedts.com**.

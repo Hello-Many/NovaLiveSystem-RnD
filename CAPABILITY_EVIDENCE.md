@@ -22,7 +22,7 @@ Truthful producer labeling and successful generation are separate outcomes.
 
 | Ref | Revision / observation scope | What was reviewed | Availability / limit |
 | --- | --- | --- | --- |
-| P0 | Public baseline `12677ed4` | All fourteen planned existing public files, linked async notes and screenshot inventory | Inspectable [pinned public tree](https://github.com/SparkSupernova/NovaLiveSystem-Showcase-PUBLIC/tree/12677ed4a04e2082c89c8c16d9d797a2e89169bf); old claims are reports, not certificates |
+| P0 | Public baseline `12677ed4` | All fourteen planned existing public files, linked async notes and screenshot inventory | Inspectable [pinned public tree](https://github.com/Hello-Many/NovaLiveSystem-RnD/tree/12677ed4a04e2082c89c8c16d9d797a2e89169bf); old claims are reports, not certificates |
 | S1 | Internal source baseline inspected September 9, 2026; conceptual topology/product review October 7 | Memory lifecycle, persistence, bounded retrieval, routing, state, learning, tools and governance | Private source; only approved conceptual summary here; not a fresh runtime run |
 | S2 | Isolated local-generation observation October 1, 2026 | Local engine/backend response with native evidence | Private dated record; not full multimodal locality or fresh frontend acceptance |
 | S3 | Feature-branch provenance observation October 3, 2026 | Guest local generation; creator-tier overflow followed by fallback truthfully labeled | Private dated record; final validation/integration open; not both-tier healthy generation |
