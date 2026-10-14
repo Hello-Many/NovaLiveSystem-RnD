@@ -3,6 +3,7 @@
 ## October 14, 2026 - limited factual documentation release candidate
 
 - Explain the implemented cognitive foundation and distinguish source inspection from runtime results.
+- Clarify BridgeEngine's central-relay role and the historical corpus-callosum/thalamus naming transition.
 - Publish the claim ledger, conceptual architecture and investor/R&D reading routes.
 - Label current demonstrations, application research, comparative results and costed requests pending.
 - Replace outdated funding offers, prices, calendar promises and access entitlements with status summaries.

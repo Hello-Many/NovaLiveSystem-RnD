@@ -12,7 +12,7 @@ independent product modules.
 
 | Region or component | Architectural role |
 | --- | --- |
-| Thalamus / BridgeEngine | Routes inputs and signals; coordinates retrieval, state and cognitive processing |
+| BridgeEngine (central relay; thalamus-inspired) | Routes inputs and signals; coordinates retrieval, state and cognitive processing |
 | Hippocampal memory system | MemoryEngine, RiverPulse, EchoMemory and context assembly preserve and select history |
 | Hypothalamus / PulseEngine | Models physiological state used in processing |
 | Presence and limbic processing | Affect, salience, relational boundaries and protected interaction context |
@@ -23,6 +23,11 @@ independent product modules.
 | Occipital and cross-modal processing | Visual interpretation and integration with other signals |
 | Governed tools and action boundary | Registered operations, authority checks and operator oversight |
 
+BridgeEngine was historically described as the corpus callosum. The later architecture map places it
+with thalamic relay and salience processing because it coordinates signals across specialized regions.
+The current central-relay role is the basis of the analogy; the historical name does not establish
+a dedicated left/right-hemisphere architecture.
+
 Biological names are functional analogies implemented in software. They are not claims of biological
 equivalence, consciousness, accurate emotional inference or a functioning physical sensor.
 
@@ -31,7 +36,7 @@ equivalence, consciousness, accurate emotional inference or a functioning physic
 ```mermaid
 flowchart TD
     User[Frontend input] --> Backend[Backend and runtime adapter]
-    Backend --> Bridge[BridgeEngine: thalamic routing]
+    Backend --> Bridge[BridgeEngine: central relay]
     Bridge --> Memory[Hippocampal retrieval and bounded context]
     Bridge --> State[Modeled physiological and affective state]
     Bridge --> Perception[Language and multimodal processing]
