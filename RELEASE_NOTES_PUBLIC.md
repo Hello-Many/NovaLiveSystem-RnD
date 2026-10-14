@@ -1,6 +1,6 @@
 # Limited factual documentation release
 
-**Candidate prepared October 14, 2026. Final wording approval and publication pending.**
+**October 14, 2026 documentation release.**
 
 This release explains NovaLiveSystem's source-reviewed cognitive foundation, the available dated
 observations and the work still needed to demonstrate application performance.

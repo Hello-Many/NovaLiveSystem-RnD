@@ -1,6 +1,6 @@
 # Changelog
 
-## October 14, 2026 - limited factual documentation release candidate
+## October 14, 2026 - limited factual documentation release
 
 - Explain the implemented cognitive foundation and distinguish source inspection from runtime results.
 - Clarify BridgeEngine's central-relay role and the historical corpus-callosum/thalamus naming transition.
@@ -11,8 +11,8 @@
 - Exclude historical runtime screenshots; retain reviewed brand artwork with hashes.
 - Replace direct-main synchronization instructions with exact-content approval and protected publication.
 
-This entry describes the candidate contents. Publication requires final content approval and a
-separately verified public release.
+This documentation release refreshes the public overview and evidence summaries.
+Current runtime demonstrations and research results remain pending.
 
 ## Earlier development
 

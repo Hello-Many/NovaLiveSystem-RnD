@@ -34,6 +34,6 @@ memory remain outside the showcase.
 
 This release includes only the two existing brand images listed in the
 [media manifest](screenshots/manifest.json). They are illustrations, not runtime evidence.
-Historical runtime PNGs are excluded from the candidate tree; new demonstration images remain pending.
+Historical runtime PNGs are excluded from this release; new demonstration images remain pending.
 
 [Architecture](architecture_overview.md) · [FAQ](FAQ.md)

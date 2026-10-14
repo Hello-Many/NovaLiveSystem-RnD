@@ -59,7 +59,7 @@ It does not establish an operational laboratory integration.
 ### Are the screenshots current demonstrations?
 
 This limited release contains brand artwork, with no runtime screenshots. Earlier captures are
-excluded from the candidate tree; they remain historical Git artifacts. New captures require
+excluded from this release; they remain historical Git artifacts. New captures require
 their own execution, privacy and release review. See the [runtime evidence guide](RUNTIME_TOOLS.md).
 
 ### How should investors and government reviewers read this repository?
