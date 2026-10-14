@@ -1,50 +1,39 @@
 # Runtime evidence guide
 
-**Reviewed October 7, 2026.** This page explains how to assess runtime claims. It does not launch
-NovaLiveSystem or distribute its private tools. See the [claim ledger](CAPABILITY_EVIDENCE.md).
+**Documentation reviewed October 14, 2026.** Current full-system demonstrations and research results
+remain pending. This page explains how to assess evidence; it does not distribute the private runtime.
 
-## What the evidence can establish
-
-| Evidence | Useful for | Does not establish |
+| Evidence | What it can establish | Limit |
 | --- | --- | --- |
-| Source inspection / static analysis | Implemented mechanisms and structural relationships | Successful execution of every route or complete fault coverage |
-| Native frontend, backend and routing traces | Corroborating the actual ingress, retrieval and response path of a dated run | General reliability outside the observed conditions |
-| Final-generation producer evidence | Distinguishing local generation from fallback/degradation | That every identity generated successfully |
-| Before/after protected-state records | Whether selected real-state files changed during an isolated run | Accurate recall or permanent memory |
-| SHA-256 over retained artifact bytes | Detecting changes to those bytes | Truth of the original observation, source authentication or cognitive recall |
-| A screenshot | A dated captured interface/output | Connected live telemetry, current operation or complete test coverage |
+| Source inspection | Implemented mechanisms and structural relationships | Does not prove successful execution of every route |
+| Native UI, backend and routing traces | The actual path of a dated interaction | Does not establish reliability outside the observed conditions |
+| Final response-source records | Whether a result came from local generation or fallback | Correct labeling and successful generation are separate outcomes |
+| Before/after state records | Whether selected protected files changed | Does not establish accurate recall or permanent retention |
+| Artifact hashes | Whether retained bytes match a recorded digest | Does not prove the truth of the original observation |
+| A captured interface | The visible output at a particular time | Does not establish live connectors or complete coverage |
 
-## Historical tools and observations
+## Available dated observations
 
-Earlier notes describe EchOrbElite as an architectural analyzer, SparkLine as a diagnostic interface
-and EchoCopi as continuity/integrity tooling. Those roles do not prove every signal is reachable,
-every probe originates in one interface or every session is permanently preserved.
+Isolated October 2026 runs observed local language generation. A later provenance observation
+truthfully reported an identity-specific generation failure and fallback. These are bounded
+historical observations; complete current UI acceptance and multimodal locality remain pending.
 
-October 2026 isolated runs observed local language generation. A later feature-branch provenance
-run truthfully reported an identity-specific overflow/fallback condition. Source-label acceptance
-and generation-health acceptance must be recorded separately.
+See the [claim ledger](CAPABILITY_EVIDENCE.md) for their review dates and scope.
 
-The [architecture](architecture_overview.md) describes the current conceptual memory/routing map.
-EchoCopi terminology in older documents should not replace RiverPulse, EchoMemory, MemoryEngine and
-context assembly with one checksum service.
+## Pending demonstrations
 
-## Current demonstration requirements
+A current demonstration must identify its revision, environment, inputs, identity, expected behavior,
+observed results, scoring, failures and limitations. Native traces must corroborate its actual path.
+A memory-continuity demonstration needs declared facts and an actual runtime restart; hashes alone
+do not establish recall.
 
-Current public demonstrations are pending an approved disposable full UI environment and synthetic
-recall/restart procedure. Each demonstration must record revision, model/hardware/configuration,
-input/identity, expected steps, observed outputs, cases/repeats, scoring, native trace references,
-protected-state checks, failures and limitations.
+Only reviewed public summaries and approved captures may be released. Private logs and operational
+memory remain outside the showcase.
 
-A genuine recall demonstration uses an actual graceful official-runtime restart and declared fact
-cases. Constructing another storage object or verifying a file hash is insufficient.
-Private logs/state remain private; reviewed summaries and captures are released separately.
+## Media
 
-## Historical media
+This release includes only the two existing brand images listed in the
+[media manifest](screenshots/manifest.json). They are illustrations, not runtime evidence.
+Historical runtime PNGs are excluded from the candidate tree; new demonstration images remain pending.
 
-The existing [screenshots directory](screenshots/) contains eleven November–December 2025 PNGs.
-The [manifest](screenshots/manifest.json) contains ten entries and no hash fields; one capture is
-unlisted. The earlier claim that all hashes were tracked is withdrawn.
-
-Captions, metadata, rights and privacy still require the scheduled media review. The EchOrbElite HUD
-is a historical interface capture, not evidence that its displayed values are current live telemetry.
-No new screenshot or hash certification is made here.
+[Architecture](architecture_overview.md) · [FAQ](FAQ.md)

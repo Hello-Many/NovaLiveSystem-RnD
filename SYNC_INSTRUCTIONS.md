@@ -1,50 +1,20 @@
-# 🚀 Showcase Sync Instructions
+# Publishing this showcase
 
-**This file lives in the submodule itself so Copi sees it when working here.**
+This repository contains curated public material. Its publication is a separate action from
+preparing or committing a draft.
 
----
+1. Review the exact candidate revision and changed paths. Check claims, pending labels, public
+   terminology, local links, artwork, privacy and credentials.
+2. Obtain the founder's approval of the final wording and exact candidate.
+3. The designated publication maintainer uses the protected-branch pull-request process.
+   The founder retains merge approval. Follow the applicable outbound approval procedure.
+4. Independently verify the published default-branch revision and its rendered contents.
+5. Update any parent repository reference only after verified publication and its own authorization.
 
-## Quick Push (From Showcase Folder)
+A local commit, branch push or successful command is not proof that the public default branch changed.
+Avoid automatic copying from the private repository, staging unrelated files or direct pushes to main.
 
-```bash
-cd NovaLiveSystem-Showcase
-git add -A
-git commit -m "your message"
-git push origin main
-```
+Public material is limited to approved documentation and reviewed assets.
+Private source, credentials, memory, raw logs, datasets and model weights stay outside this repository.
 
-Then update the parent repo's reference:
-```bash
-cd ..
-git add NovaLiveSystem-Showcase
-git commit -m "chore: Update showcase submodule"
-git push origin main
-```
-
----
-
-## VS Code Task (Easiest)
-
-`Ctrl+Shift+P` → "Tasks: Run Task" → **"Sync: Showcase to Public Repo (PUSH)"**
-
----
-
-## Important Notes
-
-1. **This is a SUBMODULE** - it has its own `.git` and pushes to `NovaLiveSystem-Showcase-PUBLIC`
-2. **The main repo tracks a commit pointer** - after pushing here, update the parent
-3. **Clean history** - this repo was reset on 2025-12-18 to remove exposed secrets
-4. **Remote:** `https://github.com/SparkSupernova/NovaLiveSystem-Showcase-PUBLIC.git`
-
----
-
-## What Goes Here (Curated Content Only)
-
-✅ README, architecture docs, screenshots
-✅ Public-facing documentation
-✅ Training results summaries
-✅ Roadmap, changelog, FAQ
-
-❌ NO source code from nova/
-❌ NO API keys or secrets
-❌ NO private artifacts or datasets
+[Repository scope](meta/ABOUT_THIS_REPO.md) · [Release notes](RELEASE_NOTES_PUBLIC.md)

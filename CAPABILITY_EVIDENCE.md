@@ -1,6 +1,6 @@
 # Capability evidence and claim ledger
 
-**Reviewed October 7, 2026.** Public baseline:
+**Public wording reviewed October 14, 2026. Source/evidence baseline reviewed October 7.** Original public baseline:
 `12677ed4a04e2082c89c8c16d9d797a2e89169bf`, last committed March 5, 2026.
 
 The implemented cognitive foundation leads this showcase. Research recovery is one proposed
@@ -46,7 +46,7 @@ All records inherit these explicit review fields unless the historical observati
 | --- | --- |
 | source_revision | P0 or the dated private review alias in each row; private exact locators retained internally |
 | implementation_reference | Named conceptual components in each claim / architecture; exact private code locators retained internally. N/A for pure commercial/document facts; original public locations identify those sources |
-| observed_date | October 7, 2026 document/source review; October 1/3 observations remain historical |
+| observed_date | October 7 source/evidence review; October 14 public-wording review; October 1/3 observations remain historical |
 | environment | Source/document inspection; no new runtime execution. Exact historical run environment remains private |
 | fixture_or_input | No new fixture run; historical reported prompts/data are not adopted as a current evaluation set |
 | procedure | Review named implementation roles, pinned public documents and dated observation summaries |
@@ -56,14 +56,14 @@ All records inherit these explicit review fields unless the historical observati
 | baseline_if_comparative | Not established for current comparison; no new comparative performance claim |
 | failures | S3 includes creator-tier overflow/fallback; other unrun outcomes are unknown, not zero failures |
 | public_artifact | This ledger and existing linked conceptual documents; raw private records not public |
-| disclosure_decision | Local review candidate; exact release assets/privacy/rights require publication approval |
+| disclosure_decision | Limited factual candidate; exact final wording and publication approval pending |
 
 ## Claim register
 
 Original locations name documents at P0; the updated overview supersedes their current-status wording.
-Older funding/sponsorship/hardware/roadmap pages and async notes remain historical inputs pending their
-scheduled phase. Their original perfect-score, locality, cost or entitlement wording is classified here,
-not adopted as a current fact. That remaining document work blocks the final release.
+Earlier funding/sponsorship/hardware/roadmap pages and migration notes remain historical Git records.
+Their original perfect-score, locality, cost or entitlement wording is classified here,
+not adopted as a current fact. The limited first release updates those pages to explicit pending-work summaries; full demonstration and funding work remains pending.
 
 | ID | Capability / scoped public wording | Status | Original public locations | Source | Failure / limitation |
 | --- | --- | --- | --- | --- | --- |
@@ -84,34 +84,34 @@ not adopted as a current fact. That remaining document work blocks the final rel
 | C15 | **Loss 0.806 / inference 3.5x** — The December 18, 2025 changelog reported these values; they are not adopted as current metrics. | historical quantitative report | CHANGELOG | P0 | Checkpoint, corpus, precision, engine, hardware, task and comparator absent from current public proof. |
 | C16 | **Perplexity / training speed** — Earlier notes reported perplexity 1.14, a 17.3% change, an 85% training-time reduction and about 2.5 hours for 30k samples. | historical quantitative reports | CHANGELOG; HARDWARE_NEEDS | P0 / S4 | Comparable conditions and grading methods are not established; no current efficiency/superiority claim. |
 | C17 | **Small-model superiority** — Investigate whether the architecture helps defined tasks under limited compute. | research hypothesis / unsupported generalization | FAQ; Grant; architecture | P0 | No 3B-versus-70B or generalized superiority finding. |
-| C18 | **EchOrbElite integrity assurance** — Static analysis and diagnostic interfaces help inspect structural relationships. | tool role / historical interface | RUNTIME_TOOLS | P0 / S1 | A historical HUD and structural map do not prove every runtime route. |
-| C19 | **SparkLine / all-probe telemetry** — Historical captures show selected validation/probe outputs; each current demo needs its own ingress/provenance. | historical interface description | RUNTIME_TOOLS; architecture; ROADMAP | P0 | No proof that every probe originates in one interface or that displayed values are current live telemetry. |
+| C18 | **Architectural diagnostics** — Static analysis and diagnostic interfaces help inspect structural relationships. | tool role / historical interface | RUNTIME_TOOLS | P0 / S1 | A historical diagnostic display and structural map do not prove every runtime route. |
+| C19 | **Probe telemetry** — Historical captures show selected validation/probe outputs; each current demo needs its own ingress/provenance. | historical interface description | RUNTIME_TOOLS; architecture; ROADMAP | P0 | No proof that every probe originates in one interface or that displayed values are current live telemetry. |
 | C20 | **Checksums / permanence** — Hashes detect changes in retained bytes; recall and permanent retention are different claims. | implemented integrity mechanisms; unsupported absolute promises | RUNTIME_TOOLS; README; Grant; SPONSORSHIP | S1 / S5 / P0 | No permanent sponsor memory, universal session retention, original truth or fund-use proof from a hash. |
-| C21 | **EchoCopi commercial release** — Earlier notes describe an EchoCopi release; current product availability and commercial status need confirmation. | historical release statement; commercial facts unverified | README; Grant; CHANGELOG; ROADMAP; SPONSORSHIP | P0 | No customer, deployment, license or revenue inferred. |
-| C22 | **Public evaluation reports** — The advertised training_results and EVALUATION_NOTES files are absent from the inspected public snapshot P0. | corrected document fact | README; RELEASE_NOTES_PUBLIC; SPONSORSHIP | P0 | Use this curated ledger; raw internal reports are not distributed. |
-| C23 | **Screenshots / privacy assertions** — Eleven November-December 2025 PNGs are retained as historical artifacts. | files verified; historical annotations | README; RELEASE_NOTES_PUBLIC; screenshots manifest/README | P0 | Redaction, metadata and rights annotations require re-review; captures do not certify current behavior. |
-| C24 | **Complete hashed manifest** — The existing manifest has ten entries and no hash fields; one of eleven PNGs is unlisted. | verified documentation gap | RUNTIME_TOOLS; screenshots/manifest.json | P0 | Media correction/release review pending; the prior EOE hash is not certified here. |
-| C25 | **Roadmap/current schedules** — Q4 2025/Q1 2026 and next-six-month promises are old proposals pending milestone-based refresh. | historical planning snapshot | ROADMAP; README; SPONSORSHIP | P0 | Elapsed dates are not evidence of completion. |
+| C21 | **Earlier product releases** — Earlier notes describe separate tooling releases; current product availability and commercial status need confirmation. | historical release statement; commercial facts unverified | README; Grant; CHANGELOG; ROADMAP; SPONSORSHIP | P0 | No customer, deployment, license or revenue inferred. |
+| C22 | **Public evaluation reports** — The advertised evaluation reports are absent from the inspected public snapshot P0. | corrected document fact | README; RELEASE_NOTES_PUBLIC; SPONSORSHIP | P0 | Use this curated ledger; raw internal reports are not distributed. |
+| C23 | **Runtime screenshots** - Eleven November-December 2025 captures existed at P0. They are excluded from this candidate tree. | historical artifacts; new captures pending | Original screenshot inventory; current media README | P0 | Historical Git versions are not current runtime evidence or renewed privacy certification. |
+| C24 | **Media manifest** - The current manifest lists only two existing brand images with hashes and captions. | document/byte facts verified | screenshots/manifest.json | Current candidate | Brand artwork is not a runtime demonstration; no old redaction/metadata certificate is carried forward. |
+| C25 | **Milestones** - Current roadmap states pending work and acceptance evidence. | pending milestones | ROADMAP | Current candidate / P0 | Earlier calendar promises are historical; no completion inferred from elapsed dates. |
 | C26 | **Hardware/parameter limits** — Earlier work used consumer hardware; actual environment must be specified per run. | historical resource description | HARDWARE_NEEDS; FAQ; SPONSORSHIP | P0 | Current capacity and broad parameter ceilings unverified; precision/context/method affect feasibility. |
-| C27 | **Prices / funding amounts / tiers** — Old hardware prices, $14,500-$32,000 range and $10/month tier are not a current approved ask. | historical estimates or commercial terms | HARDWARE_NEEDS; SPONSORSHIP | P0 | Dated quotes, effort, quantities, terms and founder approval required; no zero substituted for unknown cost. |
+| C27 | **Funding and equipment costs** - No current approved funding amount, price list or tier is presented. | costed requests pending | HARDWARE_NEEDS; SPONSORSHIP | Current candidate / P0 | A future ask requires reviewed scope, resources, costs and founder approval. |
 | C28 | **Applications / partnerships / releases** — Laboratory recovery, hosted demos, larger curricula, partnerships and publication directions require their own work. | proposed | Grant; HARDWARE_NEEDS; SPONSORSHIP; ROADMAP | S6 / P0 | No completed scientific outcome, committed partner, facility access or pilot inferred. |
-| C29 | **Founder / mission / backing** — SparkPlugged was founded by Ifejah Greene; accessibility and human agency are mission goals. | approved identity; mission; dated circumstances | README; Grant; FAQ; HARDWARE_NEEDS; SPONSORSHIP | P0 | Earlier personal circumstances/backing status require current confirmation; intended beneficiaries are not measured impact. |
+| C29 | **Founder and mission** - SparkPlugged was founded by Ifejah Greene; accessibility and human agency guide the work. | approved identity and mission | README; About; Contact | P0 | Intended beneficiaries are not evidence of measured impact. |
 | C30 | **Sponsor entitlements / diligence** — Collaboration scope, recognition, licensing and any private diligence require specific agreement. | proposed or separately negotiated | SPONSORSHIP; FAQ | P0 | No automatic raw-artifact access, coauthorship, advisory right, license, live demo or permanent memory. |
 | C31 | **Rights / future release** — Existing license governs public use; future source/licensing paths are separately reviewed. | current LICENSE; future options proposed | README; FAQ; About; SPONSORSHIP; LICENSE | P0 | No third-party weights/datasets claimed as company-original; no private rights grant from public viewing. |
 | C32 | **Repository / product layers** — This showcase contains curated docs/artifacts; NovaLiveSystem is runtime and NovaCortex IDE is the separate operator environment. | documentation scope / implemented roles | About; RELEASE_NOTES_PUBLIC; README | S1 / P0 | Interfaces/mock data are not proof of live connectors or a validated customer/laboratory product. |
 | C33 | **Contact / repository routing** — Use this public repository and existing business/collaboration contacts. | verified document fact | FAQ; README; Grant; SPONSORSHIP; meta/CONTACT | P0 | No outreach or endorsement implied; current access policy remains applicable. |
-| C34 | **Sync / release instructions** — Release follows exact-content approval and designated publication ownership; parent pointer follows verified publication. | obsolete historical operational instructions | SYNC_INSTRUCTIONS | P0 | Old direct-main/add-all/automatic-sync instructions are not current authority; release instructions update later. |
+| C34 | **Publishing process** - Exact-content approval precedes designated publication ownership and protected-branch release. | reviewed documentary process | SYNC_INSTRUCTIONS | Current candidate | A local candidate is not a verified remote/default-branch release. |
 
 ## Demonstration acceptance still pending
 
 | Demo | Proposed claim | Acceptance to prepare | Observed now |
 | --- | --- | --- | --- |
 | A | Truthful final generation-source/degradation reporting through the full UI path | Approved owned revision/isolation; native traces agree with final producer; no private Guest diagnostic disclosure; report health outcome separately | Not run; S3 is historical supporting evidence with a disclosed failure |
-| B | Bounded synthetic recall before/after graceful official-runtime restart | Approved fact set/identity/manual steps/repeats/scoring; accurate selected facts, no invented missing fact; native retrieval/generation evidence; protected real-state delta zero | Not run; no suitable maintained full UI fixture identified in this review |
+| B | Bounded synthetic recall before/after graceful official-runtime restart | Approved fact set/identity/manual steps/repeats/scoring; accurate selected facts, no invented missing fact; native retrieval/generation evidence; protected real-state delta zero | Accepted current full-runtime proof pending |
 
 No model, hardware, threshold, repeat count or binary result is invented for an unrun demonstration.
-Media manifest completion and privacy/rights review remain pending. Eleven PNGs at P0 are historical;
-ten manifest entries without hashes do not establish complete verified media coverage.
+The media manifest now covers only two existing brand images; their hashes and visible contents were checked.
+No runtime PNG is included. New runtime captures and demonstration acceptance remain pending.
 
 ## Funding and release boundary
 
@@ -121,5 +121,5 @@ current funding amount or investment-return claim is inferred.
 
 See [README](README.md), [architecture](architecture_overview.md), [runtime evidence guide](RUNTIME_TOOLS.md),
 [FAQ](FAQ.md) and [repository scope](meta/ABOUT_THIS_REPO.md).
-The retained [async record](Asyncio_Conversion.md) is historical context, including its locality and
-completed-migration statements; it is not current runtime evidence.
+The [migration summary](Asyncio_Conversion.md) explains the historical scope without implementation snippets.
+Original migration reports remain in Git history; they are not current runtime evidence.

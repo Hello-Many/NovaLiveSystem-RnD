@@ -3,7 +3,7 @@
 This is the public research showcase for **NovaLiveSystem**, developed by
 **SparkPlugged Technology Solutions LLC**, founded by **Ifejah “Spark” Greene**.
 
-It contains conceptual architecture, claim classifications and dated development artifacts.
+It contains conceptual architecture, claim classifications, status summaries and existing brand artwork.
 It supports investor and government R&D review; it is not the executable system or a validated
 customer/laboratory deployment.
 
@@ -14,8 +14,8 @@ historical reports and proposed work. Fresh demonstrations and application-speci
 have their own acceptance criteria. A historical claim, a diagram or a screenshot is not current
 runtime certification.
 
-Older grant, roadmap, hardware, sponsorship and migration documents are historical inputs awaiting
-their scheduled review. Their dates, metrics, terms and amounts are not adopted as current facts.
+Grant, roadmap, hardware and sponsorship pages describe pending work, not current offers or demonstrated results.
+Earlier documents and runtime screenshots remain in Git history; they are not current validation.
 
 ## Runtime, identity and operator environment
 

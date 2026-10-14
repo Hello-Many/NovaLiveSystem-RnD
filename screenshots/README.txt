@@ -1,8 +1,10 @@
-This folder contains redacted, non-sensitive screenshots for the NovaLiveSystem showcase.
+Media status - October 14, 2026
 
-Files expected:
-- validation_passed.png
-- model_results.png
-- nova_terminal.png
+No runtime screenshots are included in this limited factual release.
+The eleven earlier runtime PNGs are excluded from the candidate tree pending renewed review.
+Their historical Git versions are retained; repository history is not current validation.
 
-Placeholders are included. Replace with actual screenshots (ensure no secrets are visible and EXIF metadata is scrubbed).
+The manifest lists only the two existing brand images at the repository root, with hashes and captions.
+Brand artwork illustrates identity; it does not demonstrate runtime behavior.
+
+New demonstration captures remain pending their own execution, privacy, caption and release approval.

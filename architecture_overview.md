@@ -1,6 +1,6 @@
 # NovaLiveSystem: conceptual architecture
 
-**Reviewed October 7, 2026.** This is a public conceptual map of an implemented cognitive foundation.
+**Source baseline reviewed October 7; public wording reviewed October 14, 2026.** This is a public conceptual map of an implemented cognitive foundation.
 It replaces a December 2025 component inventory; source counts and model directories are not capability
 evidence. See [CAPABILITY_EVIDENCE.md](CAPABILITY_EVIDENCE.md) for status and observation limits.
 

@@ -1,6 +1,6 @@
 # Frequently asked questions
 
-**Evidence reviewed October 7, 2026.** Use the [claim ledger](CAPABILITY_EVIDENCE.md) for the precise
+**Source baseline reviewed October 7; public wording reviewed October 14, 2026.** Use the [claim ledger](CAPABILITY_EVIDENCE.md) for the precise
 status behind these answers.
 
 ### What is NovaLiveSystem?
@@ -58,16 +58,16 @@ It does not establish an operational laboratory integration.
 
 ### Are the screenshots current demonstrations?
 
-The retained screenshots date from November and December 2025. They are historical artifacts.
-Existing manifest annotations are not a new privacy, metadata or rights certification; the manifest
-and captures require review before release. See the [runtime evidence guide](RUNTIME_TOOLS.md).
+This limited release contains brand artwork, with no runtime screenshots. Earlier captures are
+excluded from the candidate tree; they remain historical Git artifacts. New captures require
+their own execution, privacy and release review. See the [runtime evidence guide](RUNTIME_TOOLS.md).
 
 ### How should investors and government reviewers read this repository?
 
 Start with [README](README.md), the [architecture](architecture_overview.md) and
 [evidence ledger](CAPABILITY_EVIDENCE.md). The investor path needs an evidenced buyer/value/delivery
 case. The R&D path needs a bounded hypothesis, mission relevance, fair evaluation and costed
-milestones. Old grant, sponsorship, hardware and roadmap pages remain historical inputs pending refresh.
+milestones. Current grant, sponsorship, hardware and roadmap pages state the work and evidence still pending.
 
 ### What financial or funding status is established here?
 

@@ -1,116 +1,82 @@
 # NovaLiveSystem
 
+<img src="NOVA_logo.jpg" alt="NovaLiveSystem brand symbol" width="160">
+
 **SparkPlugged's biomimetic cognitive architecture for persistent, governed intelligence.**
 
-NovaLiveSystem connects specialized memory, language, perception, learning, internal-state and action
-systems through a shared signal architecture. The foundation is implemented. This showcase explains
-what exists, the evidence behind it and the work required to validate each application.
+NovaLiveSystem brings memory, language, perception, learning and modeled internal state into one
+connected architecture. Its design treats context as something to preserve, select and use across
+interactions, with explicit boundaries around identity and action.
 
-Developed by **SparkPlugged Technology Solutions LLC**, founded by **Ifejah “Spark” Greene**.
+Developed by **SparkPlugged Technology Solutions LLC**, founded by **Ifejah "Spark" Greene**.
 
-**Evidence baseline reviewed October 7, 2026; overview updated October 8.** Current source inspection and
-dated runtime observations are distinguished in the [capability evidence ledger](CAPABILITY_EVIDENCE.md).
-This is an experimental R&D system; current full-system recall/restart demonstrations and application
-evaluations remain pending.
+## What exists today
 
-## The architecture
+The implemented foundation has been reviewed in source. It combines:
 
-NovaLiveSystem treats consequential context as durable state. Memory orbits have lifecycle, salience,
-decay and access reinforcement; RiverPulse and EchoMemory preserve different aspects of continuity.
-Bounded context assembly selects relevant history for the present interaction.
-
-BridgeEngine routes signals among specialized cognitive regions. Physiological and affective state are
-modeled software signals; language generation is one part of the system. Planning and registered actions
-remain subject to explicit permissions, oversight and evidence requirements.
-
-See the [conceptual architecture](architecture_overview.md) for component relationships and boundaries.
-
-| Capability family | Implemented foundation | Evidence boundary |
+| Capability | Foundation | Evidence boundary |
 | --- | --- | --- |
-| Persistent cognitive infrastructure | Layered memory, orbit lifecycle, retrieval budgets and context assembly | Fresh full-runtime recall/restart proof is pending |
-| Scientific systems foundation | Evidence assembly, continuity, bounded orchestration and telemetry | Laboratory interfaces and scientific outcomes are proposed application work |
-| Cognitive orchestration | Specialized regions connected through signal contracts and routing | Source structure does not certify every live route |
-| Evidence, provenance and recovery | Events, traces, producer labeling, integrity and recovery mechanisms | Dated observations include failures; checksums do not prove recall |
-| Multimodal and sensor intelligence | Text, vision, speech and cross-modal processing components | Sensor adapters, quality and end-to-end locality need application-specific tests |
-| Local and edge intelligence | Local language serving, local speech recognition and bounded context | Dated local generation does not establish a cloud-free multimodal system |
-| Model development and cognitive evaluation | Training, dataset lineage, evaluation contracts and probe infrastructure | Evaluation hardening remains open; historical scores are not current benchmarks |
-| Governed autonomous systems | Planning, registered tools, authority boundaries and observable actions | Physical control and domain-specific autonomy require separate approval and validation |
+| Memory and continuity | Persistent records, changing relevance and bounded context retrieval | Fresh full-system recall and restart demonstrations pending |
+| Cognitive coordination | Signal routing among specialized processing regions | Source relationships inspected; complete live-route acceptance pending |
+| Internal state | Modeled physiological and affective signals used in processing | Software mechanisms; measured user benefit pending |
+| Perception and language | Language, vision, speech and cross-modal processing components | End-to-end quality and application evaluation pending |
+| Learning and evaluation | Training, dataset lineage and evaluation infrastructure | Current comparative performance and safety results pending |
+| Governed action | Planning and registered operations with permissions and oversight | New deployments and domain-specific authority require validation |
 
-These families describe an integrated foundation. They are not eight independently validated products.
-Each material claim maps to the [evidence ledger](CAPABILITY_EVIDENCE.md#claim-register).
+[Read the conceptual architecture](architecture_overview.md) and
+[claim-by-claim evidence ledger](CAPABILITY_EVIDENCE.md).
 
-## Evidence and maturity
+## Evidence and current maturity
 
-- **Implemented:** the memory, routing, internal-state, perception, learning and governance foundations
-  summarized above have been inspected in source.
-- **Observed historically:** isolated local-generation and response-source checks were recorded in
-  October 2026. The provenance observations include an identity-specific context-overflow/fallback
-  failure; truthful source reporting is separate from healthy generation.
-- **Still to demonstrate:** current frontend-to-backend behavior, synthetic recall through a graceful
-  restart, and the approved failure/uncertainty cases.
-- **Still to validate:** customer demand, sustainable delivery economics, laboratory integration and
-  measured application benefit.
+**Status: experimental R&D system.** This October 14, 2026 documentation update publishes reviewed
+facts and pending work. It does not announce a new validated runtime or scientific result.
 
-The [runtime evidence guide](RUNTIME_TOOLS.md) explains what traces, integrity checks and screenshots can
-establish. Historical screenshots remain dated artifacts, not proof of current runtime health.
+Dated isolated runs in October 2026 observed local language generation and generation-source
+reporting. One provenance observation included an identity-specific generation failure and fallback.
+Those observations do not establish healthy generation in every context, complete multimodal
+locality or general reliability.
 
-Earlier documents include unscoped performance figures and old schedules. Their original wording is
-preserved as historical context; the ledger supplies the current classification. It does not certify
-ten-prompt results as general accuracy, a loss value as cognitive quality or a checksum as memory recall.
+**Pending:** current full UI demonstrations, synthetic recall through a runtime restart, approved
+demonstration images, application studies and comparative results. This release contains brand art,
+with no runtime screenshots. The [runtime evidence guide](RUNTIME_TOOLS.md) explains what each kind
+of evidence can establish.
 
 ## Applications to evaluate
 
-The architecture is the lead story. These are application directions, not completed deployments:
+The architecture supports research directions in persistent project assistance, continuity across
+interrupted work, multimodal operator support and local decision support. Scientific workflow
+recovery is one proposed application. Laboratory adapters, scientific outcomes, customer demand
+and measured benefit remain pending.
 
-- **Persistent project and agent intelligence:** retain relevant history across handoffs and interrupted work.
-- **Scientific workflow recovery:** reconcile supported experiment records after an interruption, identify
-  uncertainty and propose verification steps. Instrument integration and scientific evaluation are pending.
-- **Multimodal operator support:** bring visual, voice and structured observations into bounded workflows.
-- **Local decision support:** investigate useful operation under data-flow and computing constraints.
-
-NovaLiveSystem is the cognitive runtime. **NovaCortex IDE** is a separate operator environment;
-an interface or mock display is not evidence of a connected runtime or laboratory adapter.
+NovaLiveSystem is the cognitive runtime. NovaCortex IDE is a separate operator environment.
+An interface or diagram alone does not establish a connected application.
 
 ## For investors
 
-Start with the [evidence ledger](CAPABILITY_EVIDENCE.md), [architecture](architecture_overview.md) and
-[contact route](meta/CONTACT.md). The investment case will connect this foundation to a specific buyer,
-alternatives, a delivery model and costed milestones.
+Start with the [architecture](architecture_overview.md), [evidence ledger](CAPABILITY_EVIDENCE.md)
+and [development milestones](ROADMAP.md). Buyer validation, a delivery model and a costed commercial
+case remain pending. No customer, revenue, partner or investment-return claim is established here.
 
-A dedicated investor brief is planned. Customer, pilot, revenue, partner and funding claims are not
-assumed from the architecture. This repository makes no investment-return promise or current financial offer.
+Business inquiries: **sparksupernova@sparkpluggedts.com**.
 
 ## For government R&D reviewers
 
-Start with the same evidence baseline. The proposed research case will identify a bounded technical
-question, mission relevance, fair comparison, public benefit, feasible resources and measurable milestones.
+Start with the same evidence baseline and the [research status summary](Grant%20One-Pager.md).
+A proposal must define its technical question, fair comparison, resources and measurable milestones.
+Research results, program-specific eligibility, invitations and awards are not established by this showcase.
 
-The existing [Grant One-Pager](Grant%20One-Pager.md), [roadmap](ROADMAP.md) and
-[hardware notes](HARDWARE_NEEDS.md) are historical planning snapshots awaiting the funding-phase refresh.
-Their old amounts and dates are not the current approved research request. Mission fit, applicant
-eligibility, submission, invitation and award are separate facts.
+Research inquiries: **hello.many@sparkpluggedts.com**.
 
 ## Explore
 
-- [Capability evidence and limitations](CAPABILITY_EVIDENCE.md)
-- [Conceptual architecture](architecture_overview.md)
-- [Runtime evidence guide](RUNTIME_TOOLS.md)
 - [Frequently asked questions](FAQ.md)
-- [Repository scope and rights](meta/ABOUT_THIS_REPO.md)
-- [Historical release notes](RELEASE_NOTES_PUBLIC.md) and [changelog](CHANGELOG.md)
-- [Historical async migration record](Asyncio_Conversion.md) — archival engineering context, not current
-  concurrency, locality or performance certification
+- [Documentation release notes](RELEASE_NOTES_PUBLIC.md)
+- [Development history](CHANGELOG.md)
+- [Research resources](HARDWARE_NEEDS.md)
+- [Support and collaboration](SPONSORSHIP.md)
+- [Repository scope](meta/ABOUT_THIS_REPO.md)
+- [Contact and access policy](meta/CONTACT.md)
+- [Website](https://sparkpluggedts.com/)
 
-## Contact and rights
-
-Business: **sparksupernova@sparkpluggedts.com**
-
-Research collaboration: **hello.many@sparkpluggedts.com**
-
-[Contact and current access policy](meta/CONTACT.md) · [Website](https://sparkpluggedts.com/)
-
-The executable system, private memory, datasets, weights and raw evidence are not included.
-See [LICENSE](LICENSE) for permitted use. Public access does not grant implementation, training,
-commercial use or private-diligence rights. Collaboration and any later access are agreed separately.
-
-© 2026 SparkPlugged Technology Solutions LLC. All rights reserved.
+The implementation, private memory, datasets, model weights and raw logs are outside this repository.
+See [LICENSE](LICENSE) for the public material's existing terms.
