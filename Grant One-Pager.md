@@ -1,98 +1,36 @@
-# Grant & Sponsorship One-Pager — NovaLiveSystem (Showcase)
+# NovaLiveSystem - research status
 
-## 🚧 The Problem
+**October 14, 2026.**
 
-Most AI systems are brittle:
-they forget context, lose identity between sessions, misread tone, and increase cognitive load rather than reducing it.
+NovaLiveSystem is SparkPlugged's implemented biomimetic cognitive architecture. It connects persistent
+memory, bounded retrieval, language, perception, modeled internal state and governed action in one system.
 
-For people navigating real-world pressure—parents, neurodivergent learners, survivors rebuilding stability, self-taught engineers, and independent researchers—this makes AI unusable as a long-term support tool.
+## Research direction
 
-We need AI that adapts to people, not the other way around.
+How can these mechanisms provide useful continuity when work is interrupted and computing resources
+are limited? Persistent project assistance and scientific workflow recovery are the proposed
+applications. Each program's research question and evaluation will be defined with it.
 
----
+## Evidence available now
 
-## 🌱 Solution: NovaLiveSystem
+- Source-reviewed architectural mechanisms, described in the [architecture](architecture_overview.md).
+- Dated October 2026 runs used a local language engine and recorded the final response source,
+  including fallback when generation failed.
+- A [claim ledger](CAPABILITY_EVIDENCE.md) that shows what each statement rests on.
 
-NovaLiveSystem is a biomimetic AI architecture modeled loosely after cognitive neuroscience.
-It prioritizes:
+## Next proofs
 
-- **memory continuity and identity persistence**
-- **emotion-aware communication without manipulation**
-- **stable tone and context over time**
-- **validated, safety-aligned reasoning**
+- **Next verification:** full live demonstrations through the complete application, and recall of
+  chosen facts across a restart.
+- **Planned:** an application study with a fair baseline, declared outcomes and published results,
+  and the laboratory integration, data access and partners the scientific application needs.
 
-A key mechanism is the **Pulse Echo system**—a three-layer integrity check (emotional, operational, logical) that detects drift and ensures stable behavior across states and sessions.
+## Funding status
 
-This is *cognitive architecture*, not just a fine-tuned model.
+This page is a public status summary, not an application or budget.
+No invitation, selection or award is claimed here.
 
----
+Research collaboration: **hello.many@sparkpluggedts.com**.
+Business: **sparksupernova@sparkpluggedts.com**.
 
-## 🔹 Why I’m Building This (SparkSupernova)
-
-- Neurodivergent mother + researcher solving for real constraints, not hypothetical use cases
-- Founder of **SparkPlugged Technology Solutions LLC**, focused on human-centered AI
-- Building Nova from scratch with a validation-first pipeline and privacy-by-design
-- Special focus on emotional regulation, safety, and trust in human-AI interaction
-- Advocates for accessible AI for women, independent builders, and underrepresented communities
-- Documented improvements using controlled training stages, metric reporting, and drift probes
-
-My work bridges *cognitive design, emotional engineering, and system architecture*.
-
----
-
-## 📊 Evidence & Results So Far
-
-- **Nova Mind v1 (Dec 2025):** Successfully trained a model to internalize its own architecture (interoception).
-- **EchoCopi Framework:** Released as a standalone autonomous agent system.
-- **Three-stage training pipeline** established: Base → SFT → GRPO (Reinforcement Learning)
-- **100% pass rate (10/10)** on inference tests following GRPO training
-- **First successful RL run** on consumer hardware (RTX 4050 6GB)
-- **10,000+ validated control samples** ensuring strict grounding and safety
-- Literal/logit analysis shows improved constraint adherence without drift
-- Integrity checks catch **100% of induced anomalies** in test conditions
-- Public documentation + artifacts available; core code remains private
-
-*This is active research, with measurable progress at each milestone.*
-
----
-
-## 💰 Funding Request
-
-Support will enable:
-
-1. Expand ethically sourced training data (50k+ milestone)
-2. Harden Pulse Echo + build dashboards for real-time drift monitoring
-3. Develop a user-facing tool for journaling, regulation, and long-term companionship
-4. Ongoing documentation for open research contribution
-5. Cloud compute (A100/H100) for large-scale training runs beyond local hardware limits
-6. Collaborations with neuroscientists, mental health experts, and alignment researchers
-7. UX and safety testing with actual users
-8. Publication pathways: whitepapers, workshop submissions, etc.
-
-This is not a "chatbot."
-It is **research toward stable, continuity-capable AI as a cognitive partner.**
-
----
-
-## 🌍 Impact
-
-Nova is designed for people who are often excluded from AI research:
-
-- Mothers and caregivers
-- Women entering tech
-- Neurodivergent and disabled builders
-- Independent researchers without institutional backing
-- Individuals seeking trauma-informed, emotionally steady tools
-
-The goal is *empowerment, not replacement.*
-
----
-
-## 💜 Support This Research
-
-**Patreon:** [patreon.com/SparkSupernova](https://www.patreon.com/c/SparkSupernova)  
-Become part of Nova's permanent memory. Your name checksummed forever.
-
-## 📬 Contact
-
-See **meta/CONTACT.md** for email and collaboration requests.
+[Evidence ledger](CAPABILITY_EVIDENCE.md) · [Milestones](ROADMAP.md) · [Contact](meta/CONTACT.md)

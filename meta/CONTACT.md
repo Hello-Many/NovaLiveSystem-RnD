@@ -1,34 +1,21 @@
-# Contact & Collaboration
+# Contact and collaboration
 
-For sponsorships, funding opportunities, or research-aligned support:
+**SparkPlugged Technology Solutions LLC**
+Founder: **Ifejah "Spark" Greene**
+Project: **NovaLiveSystem**
 
-**Name:** Ifejah “SparkSupernova” Greene  
-**Project:** NovaLiveSystem / NOVA™  
-**Location:** Houston, Texas, USA  
-**Website:** https://sparkpluggedts.com/  
+Business: **sparksupernova@sparkpluggedts.com**
+Research collaboration: **hello.many@sparkpluggedts.com**
+Website: [sparkpluggedts.com](https://sparkpluggedts.com/)
 
-**Business:** sparksupernova@sparkpluggedts.com  
-**Collaboration:** hello.many@sparkpluggedts.com
+## Current access policy
 
-## Current Access Policy
-Licensing, model access, dataset access, and internal documentation are **not available** publicly at this stage. Access will be considered only after core safety milestones and governance structures are in place.
+This public showcase contains curated documentation and brand artwork.
+The implementation, private memory, datasets, model weights and internal records are not included.
 
-## When Licensing Will Open
+Any later access, collaboration or licensing requires separate review and written agreement.
+There is no automatic private-access entitlement through sponsorship or public viewing.
+The existing [LICENSE](../LICENSE) governs the public material.
 
-Licensing pathways will be introduced in later development stages once:
-
-- safety audits are complete
-- documentation is formalized
-- deployment channels are secured
-- ethical guardrails and oversight are established
-
-## Priority Support Areas
-
-I am seeking sponsorship aligned with:
-
-- Ethical AI innovation and governance
-- Tools for neurodivergent users and mothers
-- Computational emotional regulation + somatic calm
-- Cognitive augmentation and accessibility in technology
-
-If you or your organization aligns with these values, you're welcome to reach out.
+Demonstrations, research results, customer validation and approved costed offers remain pending.
+See the [evidence ledger](../CAPABILITY_EVIDENCE.md) for the current scope.

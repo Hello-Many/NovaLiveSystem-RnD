@@ -1,22 +1,25 @@
-# NovaLiveSystem Showcase — November 2025 Snapshot
+# Limited factual documentation release
 
-## Highlights
-- **GRPO Breakthrough:** First successful reinforcement learning run (`nova_grpo_v1`) on consumer hardware (RTX 4050).
-- **Inference Success:** 10/10 pass rate on holdout probes following RL training.
-- **Architecture Evolution:** Transitioned to a 3-stage pipeline (Base → SFT → GRPO) for cleaner separation of capability and alignment.
-- **Control Data:** 7,700+ validated samples across grounding, discipline, and guardrail categories.
+**October 14, 2026 documentation release.**
 
-## Included Artifacts
-- `README.md` — public-facing architecture brief and collaboration context.
-- `training_results.md` — checkpoint metrics, drift analysis, and next-step plan.
-- `screenshots/*.png` — redacted validation captures (historical v22 era; new UI captures pending).
-- `meta/` — contact details and repository scope notes.
+This release explains NovaLiveSystem's source-reviewed cognitive foundation, the available dated
+observations and the work still needed to demonstrate application performance.
 
-## Known Gaps
-1. **Telemetry Vocabulary:** Specific technical vocabulary for internal system monitoring is still being expanded in the training set.
-2. **UI Updates:** Screenshots in this repo reflect the previous iteration (v22); updated visuals for the GRPO-era interface are forthcoming.
+## Included
 
-## Suggested Next Steps for Reviewers
-- Examine `training_results.md` to understand the new GRPO architecture and results.
-- Review `Grant One-Pager.md` for the current funding and research roadmap.
-- Reach out via `meta/CONTACT.md` for collaboration, grant discussions, or research partnerships.
+- Architecture-led overview and conceptual component relationships.
+- Claim-by-claim evidence classifications and limits.
+- Current research, resource, collaboration and milestone status.
+- Existing brand artwork with a matching manifest.
+- Reviewed publication instructions.
+
+## Pending
+
+Current full UI, generation/failure-reporting and synthetic recall/restart demonstrations;
+approved runtime images; application studies; comparative results; buyer validation; costed funding
+requests and commercial terms.
+
+The release contains no runtime screenshots, new benchmark, laboratory result or customer claim.
+Older development reports remain in Git history and are not current performance certificates.
+
+[README](README.md) · [Evidence ledger](CAPABILITY_EVIDENCE.md) · [License](LICENSE)
