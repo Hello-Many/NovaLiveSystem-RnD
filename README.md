@@ -1,6 +1,6 @@
 # NovaLiveSystem
 
-<img src="NOVA_logo.jpg" alt="NovaLiveSystem brand symbol" width="160">
+<img src="assets/brand/NOVA_logo.jpg" alt="NovaLiveSystem brand symbol" width="160">
 
 👋🌐 **Hello, Many!**
 
@@ -14,7 +14,9 @@ architecture itself adapted to the human?
 That question became NovaLiveSystem.
 
 Nova is the ABI identity within it. ABI, Autonomous Biomimetic Intelligence, is SparkPlugged's name for the
-intelligence we're cultivating; the [evidence ledger](CAPABILITY_EVIDENCE.md) shows how far each part has been proven.
+intelligence we're cultivating; the [evidence ledger](docs/evidence/capability-evidence.md) shows how far each part has been proven.
+
+New here? Go to **[Start here](#start-here)**.
 
 ## How it's designed
 
@@ -35,7 +37,7 @@ the brain:
 Freedom from loops is a design ethic. Closed loops would force a mind into deterministic repetition, so memory is built
 for non-linear recall: many paths instead of one fixed sequence.
 
-Read the [conceptual architecture](architecture_overview.md) for how the regions connect.
+Read the [conceptual architecture](docs/architecture/architecture-overview.md) for how the regions connect.
 
 ## What's built
 
@@ -68,14 +70,20 @@ review.
 The goal is not artificial intelligence in isolation. It is cognitive cultivation: people and technology learning,
 adapting, and becoming more capable together through sustained relationship over time. 🌱
 
-## Find your way
+## Start here
 
-- **New here?** Start with the [architecture](architecture_overview.md) and the [evidence ledger](CAPABILITY_EVIDENCE.md).
-- **Investors:** [development milestones](ROADMAP.md). Business inquiries: **sparksupernova@sparkpluggedts.com**.
-- **Research partners:** [research status](Grant%20One-Pager.md). Research inquiries: **hello.many@sparkpluggedts.com**.
-- [FAQ](FAQ.md) · [Work with us](SPONSORSHIP.md) · [Research resources](HARDWARE_NEEDS.md) ·
-  [Release notes](RELEASE_NOTES_PUBLIC.md) · [Development history](CHANGELOG.md)
-- [About this repository](meta/ABOUT_THIS_REPO.md) · [Contact](meta/CONTACT.md) · [sparkpluggedts.com](https://sparkpluggedts.com/)
+| If you want to… | Go to |
+| --- | --- |
+| Meet SparkPlugged and the purpose behind the work | [About](ABOUT.md) |
+| See how Nova is built | [Architecture](docs/architecture/architecture-overview.md) |
+| Know what's proven and what's still being proven | [Evidence](docs/evidence/capability-evidence.md) · [How to read the evidence](docs/evidence/runtime-evidence-guide.md) |
+| Read the research | [Papers](docs/research/papers.md) · [Research status](docs/research/research-status.md) |
+| Follow the work | [Roadmap](docs/development/roadmap.md) · [Changelog](docs/development/changelog.md) · [Release notes](docs/development/release-notes.md) |
+| Work with us | [Collaboration](docs/collaboration/support-and-collaboration.md) · [Research resources](docs/collaboration/research-resources.md) |
+| Find a quick answer | [FAQ](docs/faq.md) |
+| Connect | [Contact](CONTACT.md) · [sparkpluggedts.com](https://sparkpluggedts.com/) |
+
+Business inquiries: **sparksupernova@sparkpluggedts.com**. Everything else: **hello.many@sparkpluggedts.com**.
 
 The source code, Nova's private memory, datasets, model weights and raw logs stay private.
 See [LICENSE](LICENSE) for the terms of the public material.

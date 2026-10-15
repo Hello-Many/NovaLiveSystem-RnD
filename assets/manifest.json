@@ -4,14 +4,14 @@
   "historical_runtime_pngs_included": false,
   "images": [
     {
-      "filename": "../Emblem.png",
+      "filename": "brand/Emblem.png",
       "kind": "brand_art",
       "caption": "NovaLiveSystem brand emblem; illustration, not runtime evidence.",
       "sha256": "89e19aa5fec3ceb2f632279808f0f371d5ded1a880520bdad1f9b1cfd67b9d60",
       "reviewed_on": "2026-10-14"
     },
     {
-      "filename": "../NOVA_logo.jpg",
+      "filename": "brand/NOVA_logo.jpg",
       "kind": "brand_art",
       "caption": "Nova wordmark and brand symbol; illustration, not runtime evidence.",
       "sha256": "6c6228945ae8e8253bed86bb45c464373b10e9f2f49d05d053a115d27d1dac91",

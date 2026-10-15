@@ -23,4 +23,4 @@ Avoid automatic copying from the private repository, staging unrelated files or 
 Public material is limited to approved documentation and reviewed assets.
 Private source, credentials, memory, raw logs, datasets and model weights stay outside this repository.
 
-[Repository scope](meta/ABOUT_THIS_REPO.md) · [Release notes](RELEASE_NOTES_PUBLIC.md)
+[Repository scope](../../ABOUT.md) · [Release notes](release-notes.md)

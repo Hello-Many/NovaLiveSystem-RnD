@@ -16,5 +16,5 @@ The next resource plan will identify:
 A final equipment list, staff allocation, schedule and budget remain pending approval.
 Existing equipment and founder effort will be accounted for in that plan.
 
-For resource or collaboration inquiries, use [the contact page](meta/CONTACT.md).
-See [milestones](ROADMAP.md) and [research status](Grant%20One-Pager.md).
+For resource or collaboration inquiries, use [the contact page](../../CONTACT.md).
+See [milestones](../development/roadmap.md) and [research status](../research/research-status.md).

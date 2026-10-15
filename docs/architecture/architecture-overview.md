@@ -2,7 +2,7 @@
 
 **Source baseline reviewed October 7; public wording reviewed October 14, 2026.** This is a public conceptual map of an implemented cognitive foundation.
 It replaces a December 2025 component inventory; source counts and model directories are not capability
-evidence. See [CAPABILITY_EVIDENCE.md](CAPABILITY_EVIDENCE.md) for status and observation limits.
+evidence. See [CAPABILITY_EVIDENCE.md](../evidence/capability-evidence.md) for status and observation limits.
 
 ## Connected cognitive regions
 
@@ -86,4 +86,4 @@ Source inspection supports implemented interface components; live connectors, mo
 adapters must be distinguished in every capture.
 
 Detailed internals and private state remain outside this public repository. See
-[repository scope](meta/ABOUT_THIS_REPO.md) and [evidence limits](CAPABILITY_EVIDENCE.md).
+[repository scope](../../ABOUT.md) and [evidence limits](../evidence/capability-evidence.md).

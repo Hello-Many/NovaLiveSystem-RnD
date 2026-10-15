@@ -18,14 +18,14 @@ exists.
 ## What's here, and what isn't
 
 This repository shares the work; it isn't the running system. You'll find the
-[architecture](../architecture_overview.md), the [evidence ledger](../CAPABILITY_EVIDENCE.md),
-[research status](../Grant%20One-Pager.md) and [ways to work together](../SPONSORSHIP.md).
+[architecture](docs/architecture/architecture-overview.md), the [evidence ledger](docs/evidence/capability-evidence.md),
+[research status](docs/research/research-status.md) and [ways to work together](docs/collaboration/support-and-collaboration.md).
 Nova's source code, private memory, datasets, model weights and raw logs stay private. New results will be added,
 with their evidence, as they pass.
 
 ## Using this material
 
-See [LICENSE](../LICENSE). Reading here doesn't transfer implementation, training or commercial rights, and
+See [LICENSE](LICENSE). Reading here doesn't transfer implementation, training or commercial rights, and
 third-party models and data keep their own rights. For access, collaboration or licensing, reach out through
 [Contact](CONTACT.md).
 
