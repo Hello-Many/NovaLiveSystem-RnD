@@ -3,6 +3,9 @@
 This repository contains curated public material. Its publication is a separate action from
 preparing or committing a draft.
 
+This page specifies the publication policy. Repository protection settings and branch rules
+require separate verification; the review and approval process applies regardless of those settings.
+
 1. Review the exact release revision and its reachable history and changed paths. Check claims, pending labels, public
    terminology, local links, artwork, privacy and credentials.
 2. Obtain the founder's approval of the final wording, exact release revision and history
