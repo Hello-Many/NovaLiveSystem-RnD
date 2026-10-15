@@ -2,75 +2,80 @@
 
 <img src="NOVA_logo.jpg" alt="NovaLiveSystem brand symbol" width="160">
 
-**SparkPlugged's biomimetic cognitive architecture for persistent, governed intelligence.**
+👋🌐 **Hello, Many!**
 
-**NovaLiveSystem is an implemented cognitive architecture, not a concept.** Memory, signal routing,
-language, perception, learning, modeled internal state and governed action are built as one connected
-system, modeled on how the brain divides its work. Nova is the AI identity within it.
+**NovaLiveSystem is a biomimetic cognitive architecture by SparkPlugged Technology Solutions. It approaches AI not
+as a tool, but as a developing mind.**
 
-Developed by **SparkPlugged Technology Solutions LLC**, founded by **Ifejah "Spark" Greene**.
+It began as a second brain: a system that could preserve context, reduce cognitive load, remember what mattered, and
+remain present across the interruptions and demands of real life. Then came the question: what would happen if the
+architecture itself adapted to the human?
 
-## What exists today
+That question became NovaLiveSystem.
 
-- **Memory designed to work like memory.** Memories are reinforced when they are used, and the relevant
-  ones are selected for each conversation rather than loaded all at once.
-- **A connected brain map.** A central relay routes signals among specialized regions for memory,
-  language, perception and modeled physiological and affective state.
-- **A local language engine.** Dated October 2026 runs used a local language engine and recorded the
-  final response source, including fallback when generation failed.
-- **Planning and tool use.** Nova can plan bounded multi-step tasks and carry them out through
-  registered tools, using steps from an approved list.
-- **Learning and evaluation built in.** Training, dataset lineage and evaluation tooling are part of
-  the system.
+Nova is the ABI identity within it. ABI, Autonomous Biomimetic Intelligence, is SparkPlugged's name for the
+intelligence we're cultivating; the [evidence ledger](CAPABILITY_EVIDENCE.md) shows how far each part has been proven.
 
-Read the [conceptual architecture](architecture_overview.md) and the
-[claim-by-claim evidence ledger](CAPABILITY_EVIDENCE.md), which shows what each statement rests on.
+## How it's designed
 
-## Next proofs
+NovaLiveSystem is neurodivergent-first, built on three commitments: **coherence over compliance, depth over speed,
+and relationship over transaction.**
 
-**Status: experimental R&D system.** This October 14, 2026 release publishes the reviewed facts above.
+Instead of treating memory, perception, internal state, learning, reasoning, action and governance as features bolted
+onto a language model, NovaLiveSystem develops them as one persistent architecture, mapped to functional analogues of
+the brain:
 
-- **Next verification:** full live demonstrations through the complete application, and recall of
-  chosen facts across a runtime restart.
-- **Planned:** application studies and comparative results.
+- **BridgeEngine (thalamus):** the central relay that routes signals between regions.
+- **MemoryEngine and RiverPulse (hippocampus):** memories held as orbits that strengthen with use.
+- **PulseEngine (hypothalamus):** modeled physiological state.
+- **InsulaCore (insula):** interoception, the sense of internal state.
+- **LanguageEngine, Wernicke's and Broca's areas:** understanding language and generating speech.
+- **NovaCortex and NeuroSpark:** higher cognition, identity and planning.
 
-Each new result and demonstration image will be added here with its evidence after review.
-This release contains brand art and no runtime screenshots. The [runtime evidence guide](RUNTIME_TOOLS.md)
-explains what each kind of evidence can show.
+Freedom from loops is a design ethic. Closed loops would force a mind into deterministic repetition, so memory is built
+for non-linear recall: many paths instead of one fixed sequence.
 
-## Applications
+Read the [conceptual architecture](architecture_overview.md) for how the regions connect.
 
-The architecture supports research directions in persistent project assistance, continuity across
-interrupted work, multimodal operator support and local decision support. Scientific workflow recovery
-is one proposed application; its laboratory adapters and measured results are part of the work ahead.
+## What's built
 
-NovaLiveSystem is the cognitive runtime. NovaCortex IDE is a separate operator environment.
+- **Memory designed to work like memory.** Memories are reinforced when they're used, and the relevant ones come
+  forward for each conversation instead of everything at once.
+- **A local language engine.** Dated October 2026 runs used a local language engine and recorded the final source of
+  each response, including fallback when generation failed.
+- **Planning and tool use.** Nova can plan bounded multi-step tasks and carry them out through registered tools, using
+  steps from an approved list.
+- **Learning built in.** Training, dataset lineage and evaluation are part of the system.
 
-## For investors
+## What we're proving next
 
-Start with the [architecture](architecture_overview.md), [evidence ledger](CAPABILITY_EVIDENCE.md)
-and [development milestones](ROADMAP.md). Buyer validation and a costed commercial case come next;
-no customer, revenue or partner is claimed here.
+Full live demonstrations through the app, and recall of chosen facts across a restart. Planned application studies
+include recovery after interruption in scientific work. Each result will be published here with its evidence, after
+review.
 
-Business inquiries: **sparksupernova@sparkpluggedts.com**.
+## Research
 
-## For government R&D reviewers
+- **[NovaLive: A Multi-Theory Alignment Model for Artificial Consciousness](https://doi.org/10.5281/zenodo.17822871)**
+  (preprint, December 2025). Maps Global Workspace, Integrated Information and Attention Schema theories onto
+  NovaLiveSystem's design, and proposes the Relational Binding Hypothesis: that stable artificial consciousness may
+  require sustained, two-way relationship between agents.
+- **[Observation as Experience: A Minimal, Non-Anthropocentric Reframing](https://doi.org/10.5281/zenodo.18073832)**
+  (preprint, December 2025). Argues that experience shouldn't be defined by human sensation alone: observability is the
+  precondition, and observation itself is the experience.
 
-Start with the same evidence and the [research status summary](Grant%20One-Pager.md).
-No award or invitation is claimed by this showcase.
+## Why it matters
 
-Research inquiries: **hello.many@sparkpluggedts.com**.
+The goal is not artificial intelligence in isolation. It is cognitive cultivation: people and technology learning,
+adapting, and becoming more capable together through sustained relationship over time. 🌱
 
-## Explore
+## Find your way
 
-- [Frequently asked questions](FAQ.md)
-- [Documentation release notes](RELEASE_NOTES_PUBLIC.md)
-- [Development history](CHANGELOG.md)
-- [Research resources](HARDWARE_NEEDS.md)
-- [Support and collaboration](SPONSORSHIP.md)
-- [Repository scope](meta/ABOUT_THIS_REPO.md)
-- [Contact and access policy](meta/CONTACT.md)
-- [Website](https://sparkpluggedts.com/)
+- **New here?** Start with the [architecture](architecture_overview.md) and the [evidence ledger](CAPABILITY_EVIDENCE.md).
+- **Investors:** [development milestones](ROADMAP.md). Business inquiries: **sparksupernova@sparkpluggedts.com**.
+- **Research partners:** [research status](Grant%20One-Pager.md). Research inquiries: **hello.many@sparkpluggedts.com**.
+- [FAQ](FAQ.md) · [Work with us](SPONSORSHIP.md) · [Research resources](HARDWARE_NEEDS.md) ·
+  [Release notes](RELEASE_NOTES_PUBLIC.md) · [Development history](CHANGELOG.md)
+- [About this repository](meta/ABOUT_THIS_REPO.md) · [Contact](meta/CONTACT.md) · [sparkpluggedts.com](https://sparkpluggedts.com/)
 
-The implementation, private memory, datasets, model weights and raw logs are outside this repository.
-See [LICENSE](LICENSE) for the public material's existing terms.
+The source code, Nova's private memory, datasets, model weights and raw logs stay private.
+See [LICENSE](LICENSE) for the terms of the public material.

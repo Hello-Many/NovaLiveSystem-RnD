@@ -1,45 +1,32 @@
 # About this repository
 
-This is the public research showcase for **NovaLiveSystem**, developed by
-**SparkPlugged Technology Solutions LLC**, founded by **Ifejah “Spark” Greene**.
+👋🌐 **Hello, Many!**
 
-It contains conceptual architecture, claim classifications, status summaries and existing brand artwork.
-It supports investor and government R&D review; it is not the executable system or a validated
-customer/laboratory deployment.
+*"Ideas do not belong to any one person. They are the collective contribution of the Many."*
 
-## Evidence scope
+I'm Ifejah "Spark" Greene, founder of SparkPlugged Technology Solutions. I build Human-Centered Biomimetic
+Intelligence systems. This repository is where I share NovaLiveSystem with the Many: the architecture, the evidence
+behind it, and the work still ahead.
 
-The [evidence ledger](../CAPABILITY_EVIDENCE.md) distinguishes implemented source, dated observation,
-historical reports and proposed work. Fresh demonstrations and application-specific evaluations
-have their own acceptance criteria. A historical claim, a diagram or a screenshot is not current
-runtime certification.
+## Why it exists
 
-Grant, roadmap, hardware and sponsorship pages describe pending work, not current offers or demonstrated results.
-Earlier documents and runtime screenshots remain in Git history; they are not current validation.
+SparkPlugged was born from problems that were personal long before they became technical. As a neurodivergent mother
+and caregiver, I was never interested in technology that requires people to think, communicate, or organize
+themselves around the limitations of a machine. My neurodivergence isn't incidental to this work. It's the reason it
+exists.
 
-## Runtime, identity and operator environment
+## What's here, and what isn't
 
-NovaLiveSystem is the integrated cognitive runtime; Nova is its AI identity.
-NovaCortex IDE is a separate operator environment. Implemented interfaces, live connectors, mock data
-and proposed laboratory adapters are different evidence categories.
+This repository shares the work; it isn't the running system. You'll find the
+[architecture](../architecture_overview.md), the [evidence ledger](../CAPABILITY_EVIDENCE.md),
+[research status](../Grant%20One-Pager.md) and [ways to work together](../SPONSORSHIP.md).
+Nova's source code, private memory, datasets, model weights and raw logs stay private. New results will be added,
+with their evidence, as they pass.
 
-Planning and governed-action components exist. Authority remains subject to explicit boundaries,
-scoped tools, approvals and oversight; a blanket claim of unrestricted autonomy or no planning
-capability would misdescribe the system.
+## Using this material
 
-Biomimetic terminology describes software mechanisms and research intent. It does not establish
-consciousness, biological equivalence or measured benefit to any population.
-
-## Proprietary and privacy boundaries
-
-The runtime source, datasets, model weights, raw logs and private operational memory are not included.
-Detailed internal records remain private; controlled diligence requires separately approved purpose,
-terms and disclosure scope.
-
-See [LICENSE](../LICENSE) for permitted use. Public viewing does not transfer implementation,
-training or commercial rights. Third-party models, data and dependencies retain their own rights;
-this repository does not claim company ownership of those assets.
-
-[Contact and current access policy](CONTACT.md).
+See [LICENSE](../LICENSE). Reading here doesn't transfer implementation, training or commercial rights, and
+third-party models and data keep their own rights. For access, collaboration or licensing, reach out through
+[Contact](CONTACT.md).
 
 © 2026 SparkPlugged Technology Solutions LLC. All rights reserved.

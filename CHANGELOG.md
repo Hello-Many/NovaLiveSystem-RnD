@@ -1,5 +1,12 @@
 # Changelog
 
+## October 2026 - README and About in the founder's voice
+
+- Rewrite the README and About pages around the founder's own words: Hello, Many!, the second-brain origin,
+  the design commitments, ABI and cognitive cultivation.
+- Add the brain-region map, the freedom-from-loops design ethic and the two December 2025 research preprints.
+- Record the preprints and design commitments in the evidence ledger (C35, C36).
+
 ## October 14, 2026 - limited factual documentation release
 
 - Explain the implemented cognitive foundation and distinguish source inspection from runtime results.
