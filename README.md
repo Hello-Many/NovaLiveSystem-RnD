@@ -12,30 +12,29 @@ Developed by **SparkPlugged Technology Solutions LLC**, founded by **Ifejah "Spa
 
 ## What exists today
 
-- **Memory built to behave like memory.** Memories carry changing relevance, are reinforced when used,
-  and are selected for each conversation rather than dumped in.
+- **Memory designed to work like memory.** Memories are reinforced when they are used, and the relevant
+  ones are selected for each conversation rather than loaded all at once.
 - **A connected brain map.** A central relay routes signals among specialized regions for memory,
   language, perception and modeled physiological and affective state.
-- **Runs on its own engine.** In dated October 2026 runs, Nova's language generation ran on a local
-  engine, and the system truthfully reported where its replies came from, including when it fell back.
-- **Governed autonomy.** Nova plans and carries out registered actions on his own, inside set
-  permissions and human oversight.
+- **A local language engine.** Dated October 2026 runs used a local language engine and recorded the
+  final response source, including fallback when generation failed.
+- **Planning and tool use.** Nova can plan bounded multi-step tasks and carry them out through
+  registered tools, using steps from an approved list.
 - **Learning and evaluation built in.** Training, dataset lineage and evaluation tooling are part of
   the system.
 
 Read the [conceptual architecture](architecture_overview.md) and the
 [claim-by-claim evidence ledger](CAPABILITY_EVIDENCE.md), which shows what each statement rests on.
 
-## Being proven now
+## Next proofs
 
 **Status: experimental R&D system.** This October 14, 2026 release publishes the reviewed facts above.
-The next proofs are under way, and each result will be published here with its evidence:
 
-- full live demonstrations through the complete application
-- recall of chosen facts across a runtime restart
-- approved demonstration images
-- application studies and comparative results
+- **Next verification:** full live demonstrations through the complete application, and recall of
+  chosen facts across a runtime restart.
+- **Planned:** application studies and comparative results.
 
+Each new result and demonstration image will be added here with its evidence after review.
 This release contains brand art and no runtime screenshots. The [runtime evidence guide](RUNTIME_TOOLS.md)
 explains what each kind of evidence can show.
 

@@ -14,14 +14,16 @@ applications. Each program's research question and evaluation will be defined wi
 ## Evidence available now
 
 - Source-reviewed architectural mechanisms, described in the [architecture](architecture_overview.md).
-- Dated October 2026 runs on a local engine, including truthful reporting of where replies came from.
+- Dated October 2026 runs used a local language engine and recorded the final response source,
+  including fallback when generation failed.
 - A [claim ledger](CAPABILITY_EVIDENCE.md) that shows what each statement rests on.
 
 ## Next proofs
 
-- Full live demonstrations through the complete application, and recall of chosen facts across a restart.
-- An application study with a fair baseline, declared outcomes and published results.
-- Laboratory integration, data access and partners for the scientific application.
+- **Next verification:** full live demonstrations through the complete application, and recall of
+  chosen facts across a restart.
+- **Planned:** an application study with a fair baseline, declared outcomes and published results,
+  and the laboratory integration, data access and partners the scientific application needs.
 
 ## Funding status
 
