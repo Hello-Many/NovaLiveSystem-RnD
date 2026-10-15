@@ -22,4 +22,4 @@ requests and commercial terms.
 The release contains no runtime screenshots, new benchmark, laboratory result or customer claim.
 Older development reports remain in Git history and are not current performance certificates.
 
-[README](README.md) · [Evidence ledger](CAPABILITY_EVIDENCE.md) · [License](LICENSE)
+[README](../../README.md) · [Evidence ledger](../evidence/capability-evidence.md) · [License](../../LICENSE)

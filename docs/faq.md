@@ -1,6 +1,6 @@
 # Frequently asked questions
 
-**Source baseline reviewed October 7; public wording reviewed October 14, 2026.** Use the [claim ledger](CAPABILITY_EVIDENCE.md) for the precise
+**Source baseline reviewed October 7; public wording reviewed October 14, 2026.** Use the [claim ledger](evidence/capability-evidence.md) for the precise
 status behind these answers.
 
 ### What is NovaLiveSystem?
@@ -60,12 +60,12 @@ It does not establish an operational laboratory integration.
 
 This limited release contains brand artwork, with no runtime screenshots. Earlier captures are
 excluded from this release; they remain historical Git artifacts. New captures require
-their own execution, privacy and release review. See the [runtime evidence guide](RUNTIME_TOOLS.md).
+their own execution, privacy and release review. See the [runtime evidence guide](evidence/runtime-evidence-guide.md).
 
 ### How should investors and government reviewers read this repository?
 
-Start with [README](README.md), the [architecture](architecture_overview.md) and
-[evidence ledger](CAPABILITY_EVIDENCE.md). The investor path needs an evidenced buyer/value/delivery
+Start with [README](../README.md), the [architecture](architecture/architecture-overview.md) and
+[evidence ledger](evidence/capability-evidence.md). The investor path needs an evidenced buyer/value/delivery
 case. The R&D path needs a bounded hypothesis, mission relevance, fair evaluation and costed
 milestones. Current grant, sponsorship, hardware and roadmap pages state the work and evidence still pending.
 
@@ -77,7 +77,7 @@ by the public architecture. Donations, investment and R&D funding are separate a
 
 ### Can I access or use the implementation?
 
-See [LICENSE](LICENSE) and the [current access policy](meta/CONTACT.md). Code, private memory, datasets,
+See [LICENSE](../LICENSE) and the [current access policy](../CONTACT.md). Code, private memory, datasets,
 weights and internal tooling are not distributed here. Public review does not grant implementation,
 training, commercial or private-document access rights. Future access/licensing is a separately
 reviewed possibility, not a sponsor entitlement.
@@ -85,5 +85,5 @@ reviewed possibility, not a sponsor entitlement.
 ### How do I contact SparkPlugged?
 
 Business: **sparksupernova@sparkpluggedts.com**. Research collaboration:
-**hello.many@sparkpluggedts.com**. Use the [existing contact route](meta/CONTACT.md).
+**hello.many@sparkpluggedts.com**. Use the [existing contact route](../CONTACT.md).
 This showcase does not initiate outreach or imply partner endorsement.

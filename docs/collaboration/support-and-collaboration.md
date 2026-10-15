@@ -6,8 +6,8 @@ SparkPlugged Technology Solutions LLC is developing NovaLiveSystem's cognitive a
 Accessibility, useful continuity and human agency guide the work. Measured benefit to particular
 users or communities remains an evaluation goal.
 
-This showcase provides [reviewed architectural facts](architecture_overview.md) and
-[evidence classifications](CAPABILITY_EVIDENCE.md). Demonstrations, research results, customer
+This showcase provides [reviewed architectural facts](../architecture/architecture-overview.md) and
+[evidence classifications](../evidence/capability-evidence.md). Demonstrations, research results, customer
 validation and costed funding requests remain pending.
 
 ## Discuss working together
@@ -20,7 +20,7 @@ Any scope, deliverables, recognition, access or rights must be agreed explicitly
 No contribution automatically grants private materials, licensing, authorship, advisory authority
 or a guaranteed demonstration. No permanent-memory or investment-return promise is made.
 
-Public material remains subject to [LICENSE](LICENSE).
+Public material remains subject to [LICENSE](../../LICENSE).
 Private implementation, weights, datasets and operational records are outside the public release.
 
-[Research status](Grant%20One-Pager.md) · [Milestones](ROADMAP.md) · [Current access policy](meta/CONTACT.md)
+[Research status](../research/research-status.md) · [Milestones](../development/roadmap.md) · [Current access policy](../../CONTACT.md)

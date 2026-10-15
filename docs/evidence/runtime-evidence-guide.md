@@ -18,7 +18,7 @@ Isolated October 2026 runs observed local language generation. A later provenanc
 truthfully reported an identity-specific generation failure and fallback. These are bounded
 historical observations; complete current UI acceptance and multimodal locality remain pending.
 
-See the [claim ledger](CAPABILITY_EVIDENCE.md) for their review dates and scope.
+See the [claim ledger](capability-evidence.md) for their review dates and scope.
 
 ## Pending demonstrations
 
@@ -33,7 +33,7 @@ memory remain outside the showcase.
 ## Media
 
 This release includes only the two existing brand images listed in the
-[media manifest](screenshots/manifest.json). They are illustrations, not runtime evidence.
+[media manifest](../../assets/manifest.json). They are illustrations, not runtime evidence.
 Historical runtime PNGs are excluded from this release; new demonstration images remain pending.
 
-[Architecture](architecture_overview.md) · [FAQ](FAQ.md)
+[Architecture](../architecture/architecture-overview.md) · [FAQ](../faq.md)

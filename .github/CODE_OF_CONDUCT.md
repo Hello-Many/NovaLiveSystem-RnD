@@ -39,7 +39,7 @@ This Code of Conduct applies to:
 
 Instances of unacceptable behavior may be reported to:
 
-**Email:** sparksupernova@sparkpluggedts.com
+**Email:** hello.many@sparkpluggedts.com
 
 Reports will be reviewed and addressed appropriately. Repeated violations may result in being blocked from the repository.
 

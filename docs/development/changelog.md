@@ -1,5 +1,13 @@
 # Changelog
 
+## October 2026 - one clear starting point
+
+- Organize the repository into findable groups: `docs/architecture`, `docs/research`, `docs/evidence`,
+  `docs/development`, `docs/collaboration`, and `assets/brand` and `assets/demonstrations`.
+- Keep the front level to the README, About, Contact and License; the README's Start here guide maps every page.
+- Add a papers page for the two December 2025 preprints.
+- Route business inquiries to sparksupernova@ and everything else to hello.many@.
+
 ## October 2026 - README and About in the founder's voice
 
 - Rewrite the README and About pages around the founder's own words: Hello, Many!, the second-brain origin,
@@ -27,4 +35,4 @@ Earlier records described model training, asynchronous routing, memory work and 
 Their original dated versions remain in Git history. Historical loss, perplexity, timing and
 ten-prompt reports are not adopted as current general performance, safety or reliability claims.
 
-[Evidence ledger](CAPABILITY_EVIDENCE.md) · [Release notes](RELEASE_NOTES_PUBLIC.md)
+[Evidence ledger](../evidence/capability-evidence.md) · [Release notes](release-notes.md)

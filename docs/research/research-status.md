@@ -13,10 +13,10 @@ applications. Each program's research question and evaluation will be defined wi
 
 ## Evidence available now
 
-- Source-reviewed architectural mechanisms, described in the [architecture](architecture_overview.md).
+- Source-reviewed architectural mechanisms, described in the [architecture](../architecture/architecture-overview.md).
 - Dated October 2026 runs used a local language engine and recorded the final response source,
   including fallback when generation failed.
-- A [claim ledger](CAPABILITY_EVIDENCE.md) that shows what each statement rests on.
+- A [claim ledger](../evidence/capability-evidence.md) that shows what each statement rests on.
 
 ## Next proofs
 
@@ -33,4 +33,4 @@ No invitation, selection or award is claimed here.
 Research collaboration: **hello.many@sparkpluggedts.com**.
 Business: **sparksupernova@sparkpluggedts.com**.
 
-[Evidence ledger](CAPABILITY_EVIDENCE.md) · [Milestones](ROADMAP.md) · [Contact](meta/CONTACT.md)
+[Evidence ledger](../evidence/capability-evidence.md) · [Milestones](../development/roadmap.md) · [Contact](../../CONTACT.md)

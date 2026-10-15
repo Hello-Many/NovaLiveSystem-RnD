@@ -15,7 +15,7 @@ The implementation, private memory, datasets, model weights and internal records
 
 Any later access, collaboration or licensing requires separate review and written agreement.
 There is no automatic private-access entitlement through sponsorship or public viewing.
-The existing [LICENSE](../LICENSE) governs the public material.
+The existing [LICENSE](LICENSE) governs the public material.
 
 Demonstrations, research results, customer validation and approved costed offers remain pending.
-See the [evidence ledger](../CAPABILITY_EVIDENCE.md) for the current scope.
+See the [evidence ledger](docs/evidence/capability-evidence.md) for the current scope.

@@ -19,4 +19,4 @@ Elapsed dates do not establish completion. Original versions remain in repositor
 A later milestone's pending status does not prevent this factual documentation release.
 New capabilities, studies, costs and demonstrations will be added only with their supporting evidence.
 
-[Research status](Grant%20One-Pager.md) · [Resource planning](HARDWARE_NEEDS.md) · [Contact](meta/CONTACT.md)
+[Research status](../research/research-status.md) · [Resource planning](../collaboration/research-resources.md) · [Contact](../../CONTACT.md)

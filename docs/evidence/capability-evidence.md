@@ -61,6 +61,7 @@ All records inherit these explicit review fields unless the historical observati
 ## Claim register
 
 Original locations name documents at P0; the updated overview supersedes their current-status wording.
+Since the October 2026 reorganization, current pages live under `docs/` and `assets/`; the README's Start here guide maps them.
 Earlier funding/sponsorship/hardware/roadmap pages and migration notes remain historical Git records.
 Their original perfect-score, locality, cost or entitlement wording is classified here,
 not adopted as a current fact. The limited first release updates those pages to explicit pending-work summaries; full demonstration and funding work remains pending.
@@ -90,7 +91,7 @@ not adopted as a current fact. The limited first release updates those pages to 
 | C21 | **Earlier product releases** — Earlier notes describe separate tooling releases; current product availability and commercial status need confirmation. | historical release statement; commercial facts unverified | README; Grant; CHANGELOG; ROADMAP; SPONSORSHIP | P0 | No customer, deployment, license or revenue inferred. |
 | C22 | **Public evaluation reports** — The advertised evaluation reports are absent from the inspected public snapshot P0. | corrected document fact | README; RELEASE_NOTES_PUBLIC; SPONSORSHIP | P0 | Use this curated ledger; raw internal reports are not distributed. |
 | C23 | **Runtime screenshots** — Eleven November-December 2025 captures existed at P0. They are excluded from this release. | historical artifacts; new captures pending | Original screenshot inventory; current media README | P0 | Historical Git versions are not current runtime evidence or renewed privacy certification. |
-| C24 | **Media manifest** — The current manifest lists only two existing brand images with hashes and captions. | document/byte facts verified | screenshots/manifest.json | October 14 documentation | Brand artwork is not a runtime demonstration; no old redaction/metadata certificate is carried forward. |
+| C24 | **Media manifest** — The current manifest lists only two existing brand images with hashes and captions. | document/byte facts verified | assets/manifest.json (formerly screenshots/manifest.json) | October 14 documentation | Brand artwork is not a runtime demonstration; no old redaction/metadata certificate is carried forward. |
 | C25 | **Milestones** — Current roadmap states pending work and acceptance evidence. | pending milestones | ROADMAP | October 14 documentation / P0 | Earlier calendar promises are historical; no completion inferred from elapsed dates. |
 | C26 | **Hardware/parameter limits** — Earlier work used consumer hardware; actual environment must be specified per run. | historical resource description | HARDWARE_NEEDS; FAQ; SPONSORSHIP | P0 | Current capacity and broad parameter ceilings unverified; precision/context/method affect feasibility. |
 | C27 | **Funding and equipment costs** — No current approved funding amount, price list or tier is presented. | costed requests pending | HARDWARE_NEEDS; SPONSORSHIP | October 14 documentation / P0 | A future ask requires reviewed scope, resources, costs and founder approval. |
@@ -121,7 +122,7 @@ The investor brief, research brief and costed milestones require substantiated f
 resource estimates and founder approval. No customer, pilot, revenue, invitation, award, partner,
 current funding amount or investment-return claim is inferred.
 
-See [README](README.md), [architecture](architecture_overview.md), [runtime evidence guide](RUNTIME_TOOLS.md),
-[FAQ](FAQ.md) and [repository scope](meta/ABOUT_THIS_REPO.md).
-The [migration summary](Asyncio_Conversion.md) explains the historical scope without implementation snippets.
+See [README](../../README.md), [architecture](../architecture/architecture-overview.md), [runtime evidence guide](runtime-evidence-guide.md),
+[FAQ](../faq.md) and [repository scope](../../ABOUT.md).
+The [migration summary](../development/async-routing-history.md) explains the historical scope without implementation snippets.
 Original migration reports remain in Git history; they are not current runtime evidence.
