@@ -1,6 +1,6 @@
 # About SparkPlugged and NovaLiveSystem
 
-✨ **Hello, Many!**
+👋🌐 **Hello, Many!**
 
 *“Ideas do not belong to any one person. They are the collective contribution of the Many.”*
 
@@ -13,6 +13,8 @@ and funding case.
 SparkPlugged was born from problems that were personal before they became technical. As a neurodivergent parent and
 caregiver, I needed technology that could preserve context across interruption instead of requiring me to reorganize
 my thinking around the limits of a machine.
+
+My neurodivergence isn't incidental to this work. It's the reason it exists.
 
 I began NovaLiveSystem through AI-assisted, mobile-first co-development on two iPhones and an iPad. Within four
 months, I had completed its first recorded model-training run on CPU. The system grew into a persistent cognitive

@@ -2,10 +2,12 @@
 
 <img src="assets/brand/NOVA_logo.jpg" alt="NovaLiveSystem brand symbol" width="160">
 
-✨ **Hello, Many!**
+👋🌐 **Hello, Many!**
 
 **NovaLiveSystem is a biomimetic cognitive architecture and research platform by SparkPlugged Technology Solutions.
 It is built for persistent, human-centered cognitive work.**
+
+**It approaches AI not as a tool, but as a developing mind.**
 
 It began as a second brain: a system that could preserve context, reduce cognitive load, remember what mattered and
 remain present across the interruptions and demands of real life. That lived need became an implemented architecture
@@ -80,6 +82,9 @@ Read the [funding case](docs/evidence/capability-evidence.md) and [research prog
 Persistent AI can become more useful as it learns across time, but persistence also raises the cost of a false lesson.
 NovaLiveSystem is building toward user-controlled continuity: a system that can preserve context, show what it used,
 recover after interruption and improve only when the evidence supports the update.
+
+The goal is not artificial intelligence in isolation. It is cognitive cultivation: people and technology learning,
+adapting, and becoming more capable together through sustained relationship over time. 🌱
 
 ## Start here
 
