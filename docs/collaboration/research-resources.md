@@ -1,20 +1,23 @@
-# Research resources
+# Phase I resource strategy
 
-**Updated October 14, 2026. Resource requirements and costed requests pending.**
+**Updated November 9, 2026.**
 
-Computing needs depend on the selected task, model, precision, context, training method and
-evaluation design. Earlier hardware configurations and prices are historical references; this page
-does not present them as current specifications, capacity limits, quotations or an approved ask.
+SparkPlugged has an existing platform, a six-month feasibility design and a founder-led engineering base. Phase I
+resources would be concentrated on the uncertainty that funding is meant to resolve: whether receipt-grounded
+selective transfer improves reliable learning across interrupted cognitive work.
 
-The next resource plan will identify:
+## Planned resource categories
 
-- Computing and storage for the selected workload and its fair comparisons.
-- Engineering, evaluation and domain-review effort.
-- Access, supervision, data rights and integration needs for any application study.
-- Quantities, dated quotations, recurring costs, dependencies and acceptance criteria.
+- **Research engineering:** benchmark fixtures, RGST implementation, baselines, ablations and integration.
+- **Evaluation:** independent method review, complete-attempt accounting, attribution analysis and reproducibility.
+- **Computing and storage:** controlled training and evaluation runs with a fixed base model, retained evidence and
+  fair comparator budgets.
+- **Customer discovery:** target-user and buyer interviews, safeguard requirements and commercialization analysis.
+- **Program operations:** project management, reporting, data governance and Phase II planning.
 
-A final equipment list, staff allocation, schedule and budget remain pending approval.
-Existing equipment and founder effort will be accounted for in that plan.
+Existing NovaLiveSystem implementation, founder effort and available equipment form the starting contribution. Final
+staff allocation, quotations and budget belong to the controlling solicitation and approved proposal rather than a
+generic public price list.
 
-For resource or collaboration inquiries, use [the contact page](../../CONTACT.md).
-See [milestones](../development/roadmap.md) and [research status](../research/research-status.md).
+For funding or resource collaboration, use [Contact](../../CONTACT.md). See the
+[research program](../research/research-status.md) and [development path](../development/roadmap.md).

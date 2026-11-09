@@ -1,32 +1,37 @@
-# About this repository
+# About SparkPlugged and NovaLiveSystem
 
-👋🌐 **Hello, Many!**
+✨ **Hello, Many!**
 
-*"Ideas do not belong to any one person. They are the collective contribution of the Many."*
+*“Ideas do not belong to any one person. They are the collective contribution of the Many.”*
 
-I'm Ifejah "Spark" Greene, founder of SparkPlugged Technology Solutions. I build Human-Centered Biomimetic
-Intelligence systems. This repository is where I share NovaLiveSystem with the Many: the architecture, the evidence
-behind it, and the work still ahead.
+I am Ifejah “Spark” Greene, founder and CTO of SparkPlugged Technology Solutions. I build human-centered biomimetic
+intelligence systems. This repository shares NovaLiveSystem's architecture, research direction, evidence practices
+and funding case.
 
-## Why it exists
+## Why this work exists
 
-SparkPlugged was born from problems that were personal long before they became technical. As a neurodivergent mother
-and caregiver, I was never interested in technology that requires people to think, communicate, or organize
-themselves around the limitations of a machine. My neurodivergence isn't incidental to this work. It's the reason it
-exists.
+SparkPlugged was born from problems that were personal before they became technical. As a neurodivergent parent and
+caregiver, I needed technology that could preserve context across interruption instead of requiring me to reorganize
+my thinking around the limits of a machine.
 
-## What's here, and what isn't
+I began NovaLiveSystem through AI-assisted, mobile-first co-development on two iPhones and an iPad. Within four
+months, I had completed its first recorded model-training run on CPU. The system grew into a persistent cognitive
+architecture and the NovaCortex Operator Environment: a workspace for directing complex work, inspecting context,
+preserving constraints and recovering continuity.
 
-This repository shares the work; it isn't the running system. You'll find the
-[architecture](docs/architecture/architecture-overview.md), the [evidence ledger](docs/evidence/capability-evidence.md),
-[research status](docs/research/research-status.md) and [ways to work together](docs/collaboration/support-and-collaboration.md).
-Nova's source code, private memory, datasets, model weights and raw logs stay private. New results will be added,
-with their evidence, as they pass.
+## What is here
+
+Start with the [capability and funding case](docs/evidence/capability-evidence.md),
+[architecture](docs/architecture/architecture-overview.md), [research program](docs/research/research-status.md) and
+[ways to work together](docs/collaboration/support-and-collaboration.md).
+
+This repository shares the work; it is not the running system. Nova's source code, private memory, datasets, model
+weights and raw operational logs stay private. Reviewed results and research outputs will be added as the program
+advances.
 
 ## Using this material
 
-See [LICENSE](LICENSE). Reading here doesn't transfer implementation, training or commercial rights, and
-third-party models and data keep their own rights. For access, collaboration or licensing, reach out through
-[Contact](CONTACT.md).
+See [LICENSE](LICENSE). Reading here does not transfer implementation, training or commercial rights, and third-party
+models and data retain their own rights. For funding, collaboration or licensing, use [Contact](CONTACT.md).
 
 © 2026 SparkPlugged Technology Solutions LLC. All rights reserved.

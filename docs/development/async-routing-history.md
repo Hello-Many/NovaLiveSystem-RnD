@@ -10,6 +10,5 @@ The current public architecture is described in [architecture_overview.md](../ar
 Implementation-level migration notes and their original reported results remain in Git history.
 This limited documentation release does not reproduce implementation snippets.
 
-Current full-runtime and application evaluations remain pending.
-Use the [evidence ledger](../evidence/capability-evidence.md) and [runtime evidence guide](../evidence/runtime-evidence-guide.md)
-for the scope of available observations.
+Use the [capability and funding case](../evidence/capability-evidence.md) for the current program and the
+[runtime evidence guide](../evidence/runtime-evidence-guide.md) for how dated observations are evaluated.

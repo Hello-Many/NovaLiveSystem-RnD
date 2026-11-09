@@ -13,13 +13,13 @@
 - Rewrite the README and About pages around the founder's own words: Hello, Many!, the second-brain origin,
   the design commitments, ABI and cognitive cultivation.
 - Add the brain-region map, the freedom-from-loops design ethic and the two December 2025 research preprints.
-- Record the preprints and design commitments in the evidence ledger (C35, C36).
+- Connect the preprints and design commitments to the public research story.
 
 ## October 14, 2026 - limited factual documentation release
 
 - Explain the implemented cognitive foundation and distinguish source inspection from runtime results.
 - Clarify BridgeEngine's central-relay role and the historical corpus-callosum/thalamus naming transition.
-- Publish the claim ledger, conceptual architecture and investor/R&D reading routes.
+- Publish a capability review, conceptual architecture and investor/R&D reading routes.
 - Label current demonstrations, application research, comparative results and costed requests pending.
 - Replace outdated funding offers, prices, calendar promises and access entitlements with status summaries.
 - Replace implementation-level migration notes with a plain historical summary.
@@ -35,4 +35,4 @@ Earlier records described model training, asynchronous routing, memory work and 
 Their original dated versions remain in Git history. Historical loss, perplexity, timing and
 ten-prompt reports are not adopted as current general performance, safety or reliability claims.
 
-[Evidence ledger](../evidence/capability-evidence.md) · [Release notes](release-notes.md)
+[Capability and funding case](../evidence/capability-evidence.md) · [Release notes](release-notes.md)

@@ -1,36 +1,55 @@
-# NovaLiveSystem - research status
+# NovaLiveSystem research program
 
-**October 14, 2026.**
+**Updated November 9, 2026.**
 
-NovaLiveSystem is SparkPlugged's implemented biomimetic cognitive architecture. It connects persistent
-memory, bounded retrieval, language, perception, modeled internal state and governed action in one system.
+NovaLiveSystem is SparkPlugged's implemented biomimetic cognitive architecture for persistent, human-centered
+cognitive work. Its current research program focuses on **receipt-grounded selective transfer (RGST)**: learning from
+the action that actually executed and transferring feedback only when host-recorded evidence supports the relationship.
 
-## Research direction
+## Research question
 
-How can these mechanisms provide useful continuity when work is interrupted and computing resources
-are limited? Persistent project assistance and scientific workflow recovery are the proposed
-applications. Each program's research question and evaluation will be defined with it.
+Can authenticated task contracts and execution receipts control when verified feedback transfers across persistent-
+agent tasks, improving useful completion while reducing attribution error and harmful transfer?
 
-## Evidence available now
+The method separates:
 
-- Source-reviewed architectural mechanisms, described in the [architecture](../architecture/architecture-overview.md).
-- Dated October 2026 runs used a local language engine and recorded the final response source,
-  including fallback when generation failed.
-- A [claim ledger](../evidence/capability-evidence.md) that shows what each statement rests on.
+- execution learning about whether a proposed action ran, changed, failed, was denied or became stale;
+- outcome learning attributed only to the effective action supported by evidence; and
+- a transfer decision that may transfer, abstain or isolate.
 
-## Next proofs
+## Phase I feasibility program
 
-- **Next verification:** full live demonstrations through the complete application, and recall of
-  chosen facts across a restart.
-- **Planned:** an application study with a fair baseline, declared outcomes and published results,
-  and the laboratory integration, data access and partners the scientific application needs.
+A bounded six-month study would use controlled, nonclinical cognitive-work fixtures with a fixed base model. It would
+compare RGST against deterministic contract rules, no-sharing learning and equally informed generic transfer methods.
+Primary measurements would include verified useful completion, attribution error, harmful transfer, abstention,
+evidence coverage and operating cost.
 
-## Funding status
+The study is designed to return a meaningful “no.” If simpler methods perform as well with the same information and
+cost, SparkPlugged would reject or narrow the distinctive RGST claim.
 
-This page is a public status summary, not an application or budget.
-No invitation, selection or award is claimed here.
+## Commercial pathway
 
-Research collaboration: **hello.many@sparkpluggedts.com**.
-Business: **sparksupernova@sparkpluggedts.com**.
+The initial discovery hypothesis is a direct-user subscription for neurodivergent adults doing complex academic or
+technical work across fragmented sessions. Customer discovery must test continuity difficulty, current workarounds,
+safeguards and willingness to pay. Founder use motivates the product and research requirements; it is not treated as
+external market validation.
 
-[Evidence ledger](../evidence/capability-evidence.md) · [Milestones](../development/roadmap.md) · [Contact](../../CONTACT.md)
+The NovaCortex Operator Environment is the product surface: a workspace where users direct work, inspect context,
+preserve boundaries and recover continuity. The research concerns the learning-control layer beneath that experience.
+
+## Current evidence
+
+- An implemented cognitive foundation spanning persistent memory, context assembly, language, routing, modeled state,
+  learning, planning and governed action.
+- Dated local-generation observations with final response-source provenance.
+- An evidence-governance workflow built around revision pins, native traces, state manifests, acceptance gates and
+  explicit limits.
+- Two registered preprints describing the broader theoretical program.
+
+Read the [capability and funding case](../evidence/capability-evidence.md), [architecture](../architecture/architecture-overview.md)
+and [papers](papers.md).
+
+Research collaboration: **hello.many@sparkpluggedts.com**. Funding and business inquiries:
+**sparksupernova@sparkpluggedts.com**.
+
+[Funding case](../evidence/capability-evidence.md) · [Milestones](../development/roadmap.md) · [Contact](../../CONTACT.md)

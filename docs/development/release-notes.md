@@ -1,25 +1,21 @@
-# Limited factual documentation release
+# Public research showcase
 
-**October 14, 2026 documentation release.**
+**Updated November 9, 2026.**
 
-This release explains NovaLiveSystem's source-reviewed cognitive foundation, the available dated
-observations and the work still needed to demonstrate application performance.
+This release presents NovaLiveSystem's implemented cognitive foundation, current research program and funding case.
 
 ## Included
 
 - Architecture-led overview and conceptual component relationships.
-- Claim-by-claim evidence classifications and limits.
-- Current research, resource, collaboration and milestone status.
+- Receipt-grounded selective transfer as a bounded, falsifiable Phase I research direction.
+- Current research, collaboration and milestone routes.
 - Existing brand artwork with a matching manifest.
 - Reviewed publication instructions.
 
-## Pending
+## Research boundary
 
-Current full UI, generation/failure-reporting and synthetic recall/restart demonstrations;
-approved runtime images; application studies; comparative results; buyer validation; costed funding
-requests and commercial terms.
+The underlying platform is implemented. RGST's comparative benefit, external demand and final commercialization path
+remain questions for the proposed feasibility and discovery program. The public repository contains curated summaries;
+private source, personal memory, weights, datasets and raw logs remain outside the release.
 
-The release contains no runtime screenshots, new benchmark, laboratory result or customer claim.
-Older development reports remain in Git history and are not current performance certificates.
-
-[README](../../README.md) · [Evidence ledger](../evidence/capability-evidence.md) · [License](../../LICENSE)
+[README](../../README.md) · [Capability and funding case](../evidence/capability-evidence.md) · [License](../../LICENSE)

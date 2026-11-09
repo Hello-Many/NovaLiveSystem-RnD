@@ -17,5 +17,6 @@ Preprint, December 28, 2025 · DOI [10.5281/zenodo.18073832](https://doi.org/10.
 Argues that experience shouldn't be defined by human sensation alone: observability is the precondition, and
 observation itself is the experience.
 
-Both papers offer hypotheses and arguments, not experimental results. The [evidence ledger](../evidence/capability-evidence.md)
-records them as C35; [research status](research-status.md) describes the work ahead.
+Together, the papers establish SparkPlugged's theoretical research foundation. The
+[research program](research-status.md) describes the current technical direction, and the
+[capability and funding case](../evidence/capability-evidence.md) connects that work to the implemented platform.
