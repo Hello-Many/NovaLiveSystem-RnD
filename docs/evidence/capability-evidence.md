@@ -8,8 +8,7 @@ on a problem that becomes more important as AI systems retain context and learn 
 from what actually happened without carrying a false lesson into the next context?
 
 This page gives funders, research collaborators and commercial partners a concise view of the platform, the proposed
-technical contribution and the work a Phase I award would support. Detailed source, runtime and claim-audit records
-remain available for purpose-specific diligence.
+technical contribution and the work a Phase I award would support.
 
 ## The platform that exists today
 
