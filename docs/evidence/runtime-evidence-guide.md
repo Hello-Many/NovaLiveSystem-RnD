@@ -1,39 +1,29 @@
-# Runtime evidence guide
+# How SparkPlugged evaluates runtime evidence
 
-**Documentation reviewed October 14, 2026.** Current full-system demonstrations and research results
-remain pending. This page explains how to assess evidence; it does not distribute the private runtime.
+NovaLiveSystem research uses evidence that binds a result to the revision, environment, identity, input and execution
+path that produced it. This keeps a dated observation useful without turning one successful run into a general claim.
 
-| Evidence | What it can establish | Limit |
+| Evidence | What it establishes | What it does not establish alone |
 | --- | --- | --- |
-| Source inspection | Implemented mechanisms and structural relationships | Does not prove successful execution of every route |
-| Native UI, backend and routing traces | The actual path of a dated interaction | Does not establish reliability outside the observed conditions |
-| Final response-source records | Whether a result came from local generation or fallback | Correct labeling and successful generation are separate outcomes |
-| Before/after state records | Whether selected protected files changed | Does not establish accurate recall or permanent retention |
-| Artifact hashes | Whether retained bytes match a recorded digest | Does not prove the truth of the original observation |
-| A captured interface | The visible output at a particular time | Does not establish live connectors or complete coverage |
+| Source inspection | An implemented mechanism or structural relationship | Successful execution of every route |
+| Native UI, backend and routing traces | The path of a dated interaction | Reliability outside the observed conditions |
+| Final response-source records | Whether a response came from generation or fallback | Response quality or factual accuracy |
+| Before/after state records | Whether selected protected files changed | Accurate recall or permanent retention |
+| Artifact hashes | Whether retained bytes match a recorded digest | The truth of the original observation |
+| A captured interface | The visible output at a particular time | Live connectors or complete coverage |
 
-## Available dated observations
+## Acceptance contract
 
-Isolated October 2026 runs observed local language generation. A later provenance observation
-truthfully reported an identity-specific generation failure and fallback. These are bounded
-historical observations; complete current UI acceptance and multimodal locality remain pending.
+A public result should name its source revision, environment, fixture or input, expected behavior, observed result,
+sample count, failures and limits. Native traces should corroborate the actual route. Comparative claims need a fair
+baseline and declared denominator; memory-continuity claims need an actual runtime restart rather than hashes alone.
 
-See the [claim ledger](capability-evidence.md) for their review dates and scope.
+Dated October 2026 runs observed local language generation and recorded final response provenance, including fallback.
+Those observations support the platform foundation described in the
+[capability and funding case](capability-evidence.md). They do not substitute for the proposed Phase I comparative
+study.
 
-## Pending demonstrations
+Only reviewed public summaries and approved captures are released. Private logs, personal memory and operational
+details remain outside the showcase.
 
-A current demonstration must identify its revision, environment, inputs, identity, expected behavior,
-observed results, scoring, failures and limitations. Native traces must corroborate its actual path.
-A memory-continuity demonstration needs declared facts and an actual runtime restart; hashes alone
-do not establish recall.
-
-Only reviewed public summaries and approved captures may be released. Private logs and operational
-memory remain outside the showcase.
-
-## Media
-
-This release includes only the two existing brand images listed in the
-[media manifest](../../assets/manifest.json). They are illustrations, not runtime evidence.
-Historical runtime PNGs are excluded from this release; new demonstration images remain pending.
-
-[Architecture](../architecture/architecture-overview.md) · [FAQ](../faq.md)
+[Funding case](capability-evidence.md) · [Architecture](../architecture/architecture-overview.md) · [FAQ](../faq.md)

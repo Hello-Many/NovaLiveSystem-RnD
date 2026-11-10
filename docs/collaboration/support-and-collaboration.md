@@ -1,26 +1,34 @@
-# Support and collaboration
+# Fund, study or build with SparkPlugged
 
-**Updated October 14, 2026.**
+**Updated November 9, 2026.**
 
-SparkPlugged Technology Solutions LLC is developing NovaLiveSystem's cognitive architecture.
-Accessibility, useful continuity and human agency guide the work. Measured benefit to particular
-users or communities remains an evaluation goal.
+SparkPlugged Technology Solutions is developing NovaLiveSystem, an implemented biomimetic cognitive architecture for
+persistent, human-centered cognitive work. We are preparing a bounded feasibility program on reliable learning and
+selective transfer in persistent AI.
 
-This showcase provides [reviewed architectural facts](../architecture/architecture-overview.md) and
-[evidence classifications](../evidence/capability-evidence.md). Demonstrations, research results, customer
-validation and costed funding requests remain pending.
+## Current collaboration priorities
 
-## Discuss working together
+- **Research funding:** Phase I feasibility work for receipt-grounded selective transfer, including benchmark design,
+  baselines, ablations, attributable-outcome evaluation and commercialization discovery.
+- **Independent technical review:** learning theory, off-policy evaluation, distributed state, trustworthy evidence
+  and human-centered AI.
+- **Customer discovery:** neurodivergent adults doing complex academic or technical work across fragmented sessions,
+  plus later institutional channels.
+- **Product and research partnerships:** user-controlled continuity, interruption recovery, provenance and reliable
+  persistent-agent behavior.
 
-Business inquiries: **sparksupernova@sparkpluggedts.com**.
-Research collaboration: **hello.many@sparkpluggedts.com**.
+Start with the [capability and funding case](../evidence/capability-evidence.md) and the
+[research program](../research/research-status.md).
 
-Contributions, investment, research funding and commercial collaboration are different arrangements.
-Any scope, deliverables, recognition, access or rights must be agreed explicitly.
-No contribution automatically grants private materials, licensing, authorship, advisory authority
-or a guaranteed demonstration. No permanent-memory or investment-return promise is made.
+## Contact
 
-Public material remains subject to [LICENSE](../../LICENSE).
-Private implementation, weights, datasets and operational records are outside the public release.
+- Funding, commercial and federal inquiries: **sparksupernova@sparkpluggedts.com**
+- Research collaboration: **hello.many@sparkpluggedts.com**
+- Company: [sparkpluggedts.com](https://sparkpluggedts.com/)
 
-[Research status](../research/research-status.md) · [Milestones](../development/roadmap.md) · [Current access policy](../../CONTACT.md)
+The public repository contains curated architecture, research and evidence summaries. Private implementation, model
+weights, datasets, personal memory and raw operational records are not distributed. Any private diligence,
+deliverables, licensing, recognition, access or rights require a separate written agreement. Public material remains
+subject to [LICENSE](../../LICENSE).
+
+[Architecture](../architecture/architecture-overview.md) · [Papers](../research/papers.md) · [Contact](../../CONTACT.md)

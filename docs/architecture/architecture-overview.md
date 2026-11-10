@@ -1,8 +1,8 @@
 # NovaLiveSystem: conceptual architecture
 
-**Source baseline reviewed October 7; public wording reviewed October 14, 2026.** This is a public conceptual map of an implemented cognitive foundation.
-It replaces a December 2025 component inventory; source counts and model directories are not capability
-evidence. See [CAPABILITY_EVIDENCE.md](../evidence/capability-evidence.md) for status and observation limits.
+**Updated November 9, 2026.** This is a public conceptual map of NovaLiveSystem's implemented cognitive foundation.
+See the [capability and funding case](../evidence/capability-evidence.md) for how the platform supports the current
+research program.
 
 ## Connected cognitive regions
 
@@ -23,13 +23,10 @@ independent product modules.
 | Occipital and cross-modal processing | Visual interpretation and integration with other signals |
 | Governed tools and action boundary | Registered operations, authority checks and operator oversight |
 
-BridgeEngine was historically described as the corpus callosum. The later architecture map places it
-with thalamic relay and salience processing because it coordinates signals across specialized regions.
-The current central-relay role is the basis of the analogy; the historical name does not establish
-a dedicated left/right-hemisphere architecture.
+BridgeEngine is the central relay coordinating signals across specialized regions. Its thalamus-inspired placement
+reflects that implemented role.
 
-Biological names are functional analogies implemented in software. They are not claims of biological
-equivalence, consciousness, accurate emotional inference or a functioning physical sensor.
+Biological names are functional analogies that describe software roles and relationships within the architecture.
 
 ## Conceptual response path
 
@@ -49,35 +46,31 @@ flowchart TD
     Cognition --> Authority[Governed action boundary]
 ```
 
-This describes intended component relationships supported by source inspection. Each demonstration
-must independently establish its actual frontend/backend/routing/generation path with native evidence.
-A diagram or static analyzer does not prove every route executes.
+This map reflects source-inspected component relationships. Dated demonstrations pair it with native frontend,
+backend, routing and generation traces to show the path taken in a specific run.
 
 ## Memory and identity continuity
 
 Orbit lifecycle includes changing relevance, decay and access reinforcement. RiverPulse persistence,
-EchoMemory, conversation history and bounded context assembly serve different roles. These are not a
-single flat cache.
+EchoMemory, conversation history and bounded context assembly serve distinct roles that form a layered continuity
+system rather than a flat cache.
 
-Authenticated creator and Guest interactions have different context/privacy boundaries. Persistence
-and identity-specific routing exist in the implementation; reliability of selected recall across a
-real runtime restart still requires the planned synthetic demonstration.
+Authenticated creator and Guest interactions have different context and privacy boundaries. Persistence and
+identity-specific routing are implemented, with restart-based recall included in the continuing acceptance program.
 
-An artifact hash detects changes to retained bytes. It does not authenticate the original observation,
-prove the model recalled a fact or guarantee permanent retention.
+Artifact hashes support byte-integrity checks. Recall acceptance combines those checks with runtime observations of
+what the system retrieved and used.
 
 ## State, models and governed action
 
-Internal-state and affective components can influence processing. A generated description of
-“pulse,” memory or awareness is not proof that the model read live telemetry.
+Internal-state and affective components can influence processing. Public evidence distinguishes modeled state,
+generated self-description and direct runtime telemetry.
 
-Earlier training used Qwen2.5-based checkpoints. The cognitive architecture is distinct from any one
-model; each dated run must identify the actual model, settings, serving source and final response
-producer. Local language serving has dated observation evidence. Voice, vision, other routes and
-complete data-flow guarantees require their own verification.
+Earlier training used Qwen2.5-based checkpoints. The cognitive architecture is distinct from any one model; dated
+runs record the actual model, settings, serving source and final response producer. Local language serving has dated
+observation evidence, with voice, vision and other routes evaluated through their own acceptance records.
 
-Planning and tool orchestration exist alongside authority boundaries. Tool registration is not
-authorization for arbitrary action, instrument control or an independently operating laboratory.
+Planning and tool orchestration operate through registered capabilities, authority boundaries and operator oversight.
 
 ## Runtime and operator environment
 
@@ -85,5 +78,5 @@ authorization for arbitrary action, instrument control or an independently opera
 Source inspection supports implemented interface components; live connectors, mock state and domain
 adapters must be distinguished in every capture.
 
-Detailed internals and private state remain outside this public repository. See
-[repository scope](../../ABOUT.md) and [evidence limits](../evidence/capability-evidence.md).
+Detailed internals and private state are protected outside this public repository. See
+[repository scope](../../ABOUT.md) and the [capability and funding case](../evidence/capability-evidence.md).

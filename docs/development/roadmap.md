@@ -1,22 +1,21 @@
-# Development milestones
+# Research and development path
 
-**Updated October 14, 2026.** Milestones describe work and acceptance conditions; they are not
-delivery-date promises.
+**Updated November 9, 2026.**
 
-| Milestone | Current status | Evidence needed to complete it |
+NovaLiveSystem's cognitive foundation is implemented. The next program turns that platform into a controlled test of
+reliable learning and a fundable product path.
+
+| Stage | Focus | Completion evidence |
 | --- | --- | --- |
-| Explain the implemented foundation | Reviewed documentation prepared for this release | Approved architecture, claim classifications and working references |
-| Demonstrate the current full runtime | Pending | Approved UI-to-runtime evidence, truthful source/failure reporting and protected-state checks |
-| Demonstrate selected memory continuity | Pending | Declared synthetic facts, actual runtime restart, observed recall and missing-fact handling |
-| Publish demonstration images | Pending | Approved captures, captions, hashes, privacy review and stated conditions |
-| Select a research/commercial focus | Pending | Bounded technical question and validated user/buyer needs |
-| Establish comparative application benefit | Pending | Fair baselines, declared methods, complete results and limitations |
-| Approve a costed delivery plan | Pending | Staff effort, computing/resources, dependencies, acceptance criteria and approved costs |
+| Platform foundation | Persistent memory, bounded context, cognitive routing, local inference, governed action and evidence infrastructure | Implemented architecture and dated provenance observations |
+| Phase I readiness | RGST specification, rejection conditions, workplan, resource model and customer-discovery design | Reviewed research package and solicitation-specific submission decision |
+| Phase I feasibility | RGST, baselines and ablations on controlled interrupted-work fixtures | Reproducible results for useful completion, attribution error, harmful transfer, abstention, coverage and cost |
+| Product discovery | Direct-user continuity needs, safeguards, current alternatives and willingness to pay | Evidence-backed user, payer and initial product requirements |
+| Phase II decision | Method performance, technical risk, product pull and delivery economics | Advance, narrow, redirect or stop decision with supporting evidence |
+| Product development | NovaCortex Operator Environment for user-controlled continuity | Usability, privacy, reliability and deployment acceptance for the selected market |
 
-Earlier calendar schedules and reported completion labels are historical development records.
-Elapsed dates do not establish completion. Original versions remain in repository history.
+The program is staged so that a negative technical or commercial result changes the plan before larger investment.
+Funding supports disciplined uncertainty reduction, not a promise that every hypothesis will succeed.
 
-A later milestone's pending status does not prevent this factual documentation release.
-New capabilities, studies, costs and demonstrations will be added only with their supporting evidence.
-
-[Research status](../research/research-status.md) · [Resource planning](../collaboration/research-resources.md) · [Contact](../../CONTACT.md)
+[Research program](../research/research-status.md) · [Phase I resources](../collaboration/research-resources.md) ·
+[Capability and funding case](../evidence/capability-evidence.md) · [Contact](../../CONTACT.md)

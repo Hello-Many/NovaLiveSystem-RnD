@@ -1,89 +1,82 @@
 # Frequently asked questions
 
-**Source baseline reviewed October 7; public wording reviewed October 14, 2026.** Use the [claim ledger](evidence/capability-evidence.md) for the precise
-status behind these answers.
+**Updated November 9, 2026.** Start with the [capability and funding case](evidence/capability-evidence.md) for the
+platform, research contribution and proposed Phase I program.
 
 ### What is NovaLiveSystem?
 
-SparkPlugged's implemented biomimetic cognitive architecture: connected memory, routing, language,
-perception, learning, internal-state and governed-action systems. Nova is the AI identity operating
-within that architecture. Application-specific performance remains a separate question.
+NovaLiveSystem is SparkPlugged's implemented biomimetic cognitive architecture and research platform for persistent,
+human-centered cognitive work. It connects memory, routing, language, perception, learning, modeled internal state,
+planning and governed action. Nova is the AI identity operating within that architecture.
 
-### What is implemented, and what is still research?
+### What problem is SparkPlugged researching?
 
-The cognitive foundation exists in source. Dated isolated runs support some local-generation and
-provenance observations, including disclosed failures. Fresh full-system continuity proof, laboratory
-adapters, scientific benefit and commercial demand remain to be established.
+The action an AI controller proposes is not always what the system executes. Permissions, unavailable evidence,
+fallbacks, retries, stale state and overrides can change the effective action. Learning from the proposal instead of
+what happened can create false lessons that spread across later work.
+
+SparkPlugged proposes receipt-grounded selective transfer (RGST): bind the task contract, proposed action, effective
+action, host-recorded receipt and attributable outcome, then decide whether feedback may transfer, should abstain or
+must remain isolated.
+
+### What would Phase I fund?
+
+A bounded six-month feasibility study would build controlled cognitive-work fixtures, implement RGST and strong
+baselines, and measure useful completion, attribution error, harmful transfer, abstention, evidence coverage and
+operating cost. It would also test the initial user and payer hypotheses through bounded customer discovery.
+
+### Is the research result already known?
+
+No. The platform foundation exists; RGST is a falsifiable research contribution. If deterministic rules, isolated
+learning or an equally informed generic transfer method perform as well under the same constraints, SparkPlugged would
+reject or narrow the distinctive claim.
+
+### Who is the initial user?
+
+The discovery hypothesis is neurodivergent adults doing complex academic or technical work across fragmented
+sessions, initially paying through a direct subscription. Institutions are possible later channels, not assumed
+buyers. Founder use shaped the requirements but is not treated as external market validation.
+
+### What is the NovaCortex Operator Environment?
+
+It is the human-centered workspace through which a user directs work, inspects the context Nova used, preserves
+constraints and recovers continuity. NovaLiveSystem is the cognitive runtime beneath that environment.
 
 ### What does persistent memory mean here?
 
-Layered memory combines orbit lifecycle and salience, RiverPulse persistence, EchoMemory, conversation
-history and bounded retrieval. Retaining data and correctly recalling it are different acceptance
-criteria. Current synthetic recall across an official-runtime restart is pending.
-
-### What does interoception mean?
-
-Modeled internal physiological and affective signals participate in processing. Historical generated
-self-descriptions use architectural vocabulary; they do not establish consciousness, biological
-feeling or accurate live-state reporting.
+Layered memory combines orbit lifecycle and salience, RiverPulse persistence, EchoMemory, conversation history and
+bounded retrieval. These components preserve and select prior state rather than sending the entire history into every
+interaction.
 
 ### Is the system local?
 
-Local language serving is implemented and was observed in dated isolated runs. An OpenAI-compatible
-SDK is a client protocol; it does not establish the model provider. Complete multimodal locality,
-network isolation and data-flow guarantees are not established by those runs.
-
-### Which model does it use?
-
-Earlier snapshots describe Qwen2.5-3B-based training. The architecture is not defined by one checkpoint.
-A demonstration must specify its actual model, revision, precision, serving configuration and final
-generation/fallback source. Historical parameter counts are not current performance certification.
-
-### Does a small model outperform larger systems?
-
-That is a question for a defined comparison. No present superiority claim is made here. Historical
-ten-prompt scores, perplexity and timing figures lack enough public method to support such a claim.
+Local language serving is implemented and has been observed in dated runs with final response-source provenance. An
+OpenAI-compatible SDK is a client protocol, not proof of the provider. Each public result must still identify its
+actual model, route, environment and final producer.
 
 ### What kind of autonomy exists?
 
-Planning, registered tools and governed-action components exist. Their authority is scoped by
-permissions and oversight. Physical action, laboratory control and new domain integrations require
-separate authorization and validation.
+Planning, registered tools and governed-action components exist. Their authority is scoped by permissions and
+operator oversight. Physical action and new domain integrations require separate authorization and validation.
 
-### Is NovaCortex IDE the same system?
+### Is this clinical software?
 
-NovaLiveSystem is the cognitive runtime; NovaCortex IDE is an operator environment. An interface
-screenshot can show an implemented interface while its displayed data or connector remains a mock.
-It does not establish an operational laboratory integration.
+No. The proposed Phase I work is a nonclinical feasibility study of continuity and learning control. SparkPlugged does
+not claim diagnosis, treatment or health outcomes.
 
-### Are the screenshots current demonstrations?
+### How does SparkPlugged evaluate evidence?
 
-This limited release contains brand artwork, with no runtime screenshots. Earlier captures are
-excluded from this release; they remain historical Git artifacts. New captures require
-their own execution, privacy and release review. See the [runtime evidence guide](evidence/runtime-evidence-guide.md).
-
-### How should investors and government reviewers read this repository?
-
-Start with [README](../README.md), the [architecture](architecture/architecture-overview.md) and
-[evidence ledger](evidence/capability-evidence.md). The investor path needs an evidenced buyer/value/delivery
-case. The R&D path needs a bounded hypothesis, mission relevance, fair evaluation and costed
-milestones. Current grant, sponsorship, hardware and roadmap pages state the work and evidence still pending.
-
-### What financial or funding status is established here?
-
-Customer demand, pilots, revenue, commitments, applicant eligibility, invitations and awards require
-their own approved evidence. No current funding amount or investment-return promise is established
-by the public architecture. Donations, investment and R&D funding are separate arrangements.
+Results are bound to a source revision, environment, input, expected behavior, observed result, failures and limits.
+Native traces corroborate execution paths. Comparative claims require a declared baseline and denominator. See the
+[runtime evidence guide](evidence/runtime-evidence-guide.md).
 
 ### Can I access or use the implementation?
 
-See [LICENSE](../LICENSE) and the [current access policy](../CONTACT.md). Code, private memory, datasets,
-weights and internal tooling are not distributed here. Public review does not grant implementation,
-training, commercial or private-document access rights. Future access/licensing is a separately
-reviewed possibility, not a sponsor entitlement.
+See [LICENSE](../LICENSE) and the [access policy](../CONTACT.md). Code, private memory, datasets, weights and raw
+operational records are not distributed here. Private diligence, implementation access and licensing require separate
+review and written agreement.
 
 ### How do I contact SparkPlugged?
 
-Business: **sparksupernova@sparkpluggedts.com**. Research collaboration:
-**hello.many@sparkpluggedts.com**. Use the [existing contact route](../CONTACT.md).
-This showcase does not initiate outreach or imply partner endorsement.
+Funding, commercial and federal inquiries: **sparksupernova@sparkpluggedts.com**. Research collaboration:
+**hello.many@sparkpluggedts.com**. See [Contact](../CONTACT.md).
