@@ -1,5 +1,11 @@
 # Changelog
 
+## November 9, 2026 - capability, funding and founder voice
+
+- Publish a concise capability and funding case as the primary evidence page.
+- Preserve the founder's greeting, developing-mind framing, lived origin and cognitive-cultivation purpose.
+- Describe the current architecture positively, with material qualifications attached to the claims they govern.
+
 ## October 2026 - one clear starting point
 
 - Organize the repository into findable groups: `docs/architecture`, `docs/research`, `docs/evidence`,

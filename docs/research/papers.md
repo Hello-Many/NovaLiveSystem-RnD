@@ -1,6 +1,6 @@
 # Papers
 
-Two preprints by Ifejah "Spark" Greene, SparkPlugged Technology Solutions, published on Zenodo.
+Two preprints by Ifejah “Spark” Greene, SparkPlugged Technology Solutions, published on Zenodo.
 
 ## NovaLive: A Multi-Theory Alignment Model for Artificial Consciousness
 

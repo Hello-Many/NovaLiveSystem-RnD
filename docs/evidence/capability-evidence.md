@@ -9,7 +9,7 @@ from what actually happened without carrying a false lesson into the next contex
 
 This page gives funders, research collaborators and commercial partners a concise view of the platform, the proposed
 technical contribution and the work a Phase I award would support. Detailed source, runtime and claim-audit records
-remain available for purpose-specific diligence rather than serving as the public front door.
+remain available for purpose-specific diligence.
 
 ## The platform that exists today
 
