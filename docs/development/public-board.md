@@ -91,9 +91,8 @@ evidence: the updated page and a changelog entry.
 
 - **Status:** In progress · **Priority:** P2 · **Organ:** Datasets & Probes · **Stage:** Validation & Drift
 
-Every dataset used to train Nova's language engine is validated before use, registered with its version and promotion
-state, and paired with at least one fresh holdout probe per training cycle, so drift is measured rather than assumed. The
-grounding and system-discipline datasets, the probe-per-dataset rule and the registry with validation and promotion
+The training protocol requires dataset validation, version and promotion tracking, and fresh holdout probes for each
+trained dataset and cycle, so drift is measured rather than assumed. The grounding and system-discipline datasets, the probe-per-dataset rule and the registry with validation and promotion
 steps are in place ([changelog, November 2025](changelog.md#november-2025---control-memory-and-training-infrastructure)).
 The open work is the dataset release log and the probe set for the next training cycle. Completion evidence: a published
 release-log entry and the drift results it cites.
