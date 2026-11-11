@@ -2,6 +2,19 @@
 
 Selected milestones in the development of NovaLiveSystem and its public research showcase.
 
+## November 10, 2026 - response provenance and running-stack diagnostics
+
+- Record the producer of every reply, the local language engine or a stated fallback, with a request identifier shown
+  beside the message in the app.
+- Return one reply per user turn; only the returned reply enters Nova's memory, and failed generations are kept as
+  diagnostics rather than as Nova's words.
+- Keep past failure notices out of recalled memory on the index that feeds recall, while preserving historical records.
+- Add an operator-only running-stack view: registered regions, language-engine reachability, the four channels of
+  Nova's heartbeat with their freshness, and the producer of the last reply, observed without starting a second system.
+- Retain the language engine's lifecycle and output logs so an unexpected exit is observable.
+- Open the [public R&D board](public-board.md) as the record of what is built, what is being proven, and what comes
+  next.
+
 ## November 9, 2026 - capability, funding and founder voice
 
 - Publish a concise capability and funding case as the primary evidence page.
