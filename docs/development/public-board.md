@@ -24,7 +24,7 @@ documented capability.
 
 ## Board items
 
-The items below are the board's public content. Titles and bodies match the board exactly; this page is their record.
+This page defines the public milestones and their evidence links. The board's items are created from it.
 
 ### Platform foundation
 
@@ -59,7 +59,8 @@ system and never starts a second one. Landed November 10, 2026:
 Strengthening the screening of memory brought forward into a conversation, while preserving historical records. The
 first step, keeping past failure notices out of recalled memory, landed November 10, 2026
 ([changelog](changelog.md#november-10-2026---response-provenance-and-running-stack-diagnostics)). The next step extends
-the same screening to earlier unlabelled records on every recall path. Completion evidence: the dated run below.
+the same screening to earlier unlabelled records on every recall path. Completion evidence: reviewed recall checks and
+the dated run below.
 
 ### Dated run through the app
 
@@ -85,6 +86,17 @@ the persistent memory and continuity claim in [what is built](../../README.md#wh
 The public [conceptual architecture](../architecture/architecture-overview.md) is brought level with the implemented
 memory system: how memories are written, how they are recalled, and what is eligible to come forward. Completion
 evidence: the updated page and a changelog entry.
+
+### Training-data governance
+
+- **Status:** In progress · **Priority:** P2 · **Organ:** Datasets & Probes · **Stage:** Validation & Drift
+
+Every dataset used to train Nova's language engine is validated before use, registered with its version and promotion
+state, and paired with at least one fresh holdout probe per training cycle, so drift is measured rather than assumed. The
+grounding and system-discipline datasets, the probe-per-dataset rule and the registry with validation and promotion
+steps are in place ([changelog, November 2025](changelog.md#november-2025---control-memory-and-training-infrastructure)).
+The open work is the dataset release log and the probe set for the next training cycle. Completion evidence: a published
+release-log entry and the drift results it cites.
 
 ### Phase I readiness
 
@@ -115,7 +127,17 @@ overrides, retries and cancellation: the first deliverable named under
 - **Status:** Backlog · **Priority:** P1 · **Organ:** Docs & Sponsorship · **Stage:** Concept & Intake
 
 Direct-user continuity needs, safeguards, current alternatives and willingness to pay, producing evidence-backed user,
-payer and initial product requirements. P1 because the Phase II decision depends on it. See the [roadmap](roadmap.md).
+payer and initial product requirements. P1 because the initial funding and product decisions, and later the Phase II
+decision, depend on it. See the [roadmap](roadmap.md).
+
+### SparkPlugged launch package
+
+- **Status:** In progress · **Priority:** P1 · **Organ:** Docs & Sponsorship · **Stage:** Docs & Sponsorship
+
+The company's public front as one package: the [sparkpluggedts.com](https://sparkpluggedts.com/) website, the public
+[release notes](release-notes.md), and EchoCopi, SparkPlugged's standalone persistent-memory product, brought to
+commercial release in December 2025 ([changelog](changelog.md#december-14---echocopi-release)). Completion evidence:
+the website, the release notes and the product page published and linked from [start here](../../README.md#start-here).
 
 ### Phase II decision
 
@@ -123,22 +145,6 @@ payer and initial product requirements. P1 because the Phase II decision depends
 
 Method performance, technical risk, product pull and delivery economics, ending in an advance, narrow, redirect or stop
 decision with supporting evidence. See the [roadmap](roadmap.md).
-
-## Disposition of the eight September cards
-
-The board carried eight draft cards from September 2026. Their bodies name private repository paths, which the rule
-above forbids, so every body is replaced regardless of disposition. Spark decides each row.
-
-| September card | Covered by | Recommendation |
-| --- | --- | --- |
-| Tri-Heartbeat telemetry + PulseEngine health gating (Done) | Running-stack diagnostics; changelog December 2025 and November 2026 | Retire; the capability is recorded |
-| EchoCopi continuity + public docs refresh (Done) | Changelog October and November 2026 | Retire; superseded by the published refresh |
-| SparkPlugged Launch Package (Website, Releases, EchoCopi) (In progress) | Not covered | Keep as a thirteenth card, body rewritten without paths; Spark confirms status |
-| Control Dataset Governance Overhaul (In progress) | Platform foundation, evidence infrastructure | Fold into one card, "Training-data governance", status confirmed by Spark |
-| Stage 10 Probe & Holdout Alignment (In progress) | same | Fold into "Training-data governance" |
-| Stage10 control dataset law + probe coverage (In progress) | same | Fold into "Training-data governance" |
-| Stage 10 Dataset Release Log (Backlog) | same | Fold into "Training-data governance" |
-| Stage11 probe manifest planning (Backlog, empty body) | Phase I feasibility | Retire |
 
 ## What never appears on the board
 
