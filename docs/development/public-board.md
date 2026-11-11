@@ -89,13 +89,13 @@ evidence: the updated page and a changelog entry.
 
 ### Training-data governance
 
-- **Status:** In progress · **Priority:** P2 · **Organ:** Datasets & Probes · **Stage:** Validation & Drift
+- **Status:** Done · **Priority:** P2 · **Organ:** Datasets & Probes · **Stage:** Implementation
 
 The training protocol requires dataset validation, version and promotion tracking, and fresh holdout probes for each
-trained dataset and cycle, so drift is measured rather than assumed. The grounding and system-discipline datasets, the probe-per-dataset rule and the registry with validation and promotion
-steps are in place ([changelog, November 2025](changelog.md#november-2025---control-memory-and-training-infrastructure)).
-The open work is the dataset release log and the probe set for the next training cycle. Completion evidence: a published
-release-log entry and the drift results it cites.
+trained dataset and cycle, so drift is measured rather than assumed. The grounding and system-discipline datasets, the
+probe-per-dataset rule, the dataset registry, and promotion that writes each release to a release log are implemented
+([changelog, November 2025](changelog.md#november-2025---control-memory-and-training-infrastructure)). The next training
+cycle, when it runs, publishes its release-log entry and the drift results it cites as a separate item.
 
 ### Phase I readiness
 
