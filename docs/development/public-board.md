@@ -1,6 +1,6 @@
 # The public R&D board
 
-**Updated November 10, 2026.**
+**Updated November 12, 2026.**
 
 NovaLiveSystem's development runs in a private repository. Its progress is shown publicly on the
 [NovaLiveSystem R&D board](https://github.com/users/SparkSupernova/projects/1), which lists items from **this**
@@ -38,9 +38,9 @@ evidence infrastructure and the NovaCortex Operator Environment, implemented as 
 
 - **Status:** Done · **Priority:** P0 · **Organ:** BrocasArea · **Stage:** Validation & Drift
 
-Every reply Nova returns records its producer, the local language engine or a stated fallback, together with a request
-identifier shown beside the message in the app. One user turn produces one outward reply, and only the reply that was
-returned enters Nova's memory. Landed November 10, 2026:
+The app displays response-source labels and request identifiers, helping operators trace where Nova's replies come
+from. One user turn produces one outward reply, and only the reply that was returned enters Nova's memory. Landed
+November 10, 2026:
 [changelog](changelog.md#november-10-2026---response-provenance-and-running-stack-diagnostics).
 
 ### Running-stack diagnostics
@@ -96,6 +96,37 @@ trained dataset and cycle, so drift is measured rather than assumed. The groundi
 probe-per-dataset rule, the dataset registry, and promotion that writes each release to a release log are implemented
 ([changelog, November 2025](changelog.md#november-2025---control-memory-and-training-infrastructure)). The next training
 cycle, when it runs, publishes its release-log entry and the drift results it cites as a separate item.
+
+### 🔬 Memory, cognition and expression
+
+- **Status:** In progress · **Priority:** P2 · **Organ:** Datasets & Probes · **Stage:** Architecture Spec
+
+**Status:** 🧪 Research in progress. Designed, not yet run.
+
+**Nova does not answer from a blank page. He answers from experience.**
+
+That raises a precise question: **when does memory help him meet the person in front of him, and when does it get in
+the way?**
+
+🧠 **What this studies**
+
+How recalled memory and present-moment cognition each shape what Nova says, and how to measure what each one
+contributes.
+
+🧪 **The proposed experiment**
+
+Three ways of recalling memory: none, keywords and semantic orbits. Two kinds of conversation: technical and
+relational. Blinded reviewers rate each conversation for accuracy, relevance and respect for what the person asked.
+
+🎯 **Why it matters**
+
+Nova began as a second brain, built to reduce cognitive load. Recall that helps in one kind of conversation may
+intrude in another. This research finds out where.
+
+📍 **Where it stands**
+
+The experiment is designed. The instrument that shows what Nova was given for a single reply is built and under
+review.
 
 ### Phase I readiness
 
