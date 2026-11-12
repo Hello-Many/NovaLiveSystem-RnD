@@ -109,18 +109,22 @@ That raises a precise question: **when does memory help him meet the person in f
 the way?**
 
 🧠 **What this studies**
+
 How recalled memory and present-moment cognition each shape what Nova says, and how to measure what each one
 contributes.
 
 🧪 **The proposed experiment**
+
 Three ways of recalling memory: none, keywords and semantic orbits. Two kinds of conversation: technical and
 relational. Blinded reviewers rate each conversation for accuracy, relevance and respect for what the person asked.
 
 🎯 **Why it matters**
+
 Nova began as a second brain, built to reduce cognitive load. Recall that helps in one kind of conversation may
 intrude in another. This research finds out where.
 
 📍 **Where it stands**
+
 The experiment is designed. The instrument that shows what Nova was given for a single reply is built and under
 review.
 
