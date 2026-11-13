@@ -1,6 +1,6 @@
 # About SparkPlugged and NovaLiveSystem
 
-👋🌐 **Hello, Many!**
+**Hello, Many! 🌍👋🏽**
 
 *“Ideas do not belong to any one person. They are the collective contribution of the Many.”*
 

@@ -2,7 +2,7 @@
 
 <img src="assets/brand/NOVA_logo.jpg" alt="NovaLiveSystem brand symbol" width="160">
 
-👋🌐 **Hello, Many!**
+**Hello, Many! 🌍👋🏽**
 
 **NovaLiveSystem is a biomimetic cognitive architecture and research platform by SparkPlugged Technology Solutions.
 It is built for persistent, human-centered cognitive work.**
