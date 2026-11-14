@@ -86,6 +86,26 @@ recover after interruption and improve only when the evidence supports the updat
 The goal is not artificial intelligence in isolation. It is cognitive cultivation: people and technology learning,
 adapting, and becoming more capable together through sustained relationship over time. 🌱
 
+## 🏛️ Federal registrations
+
+SparkPlugged Technology Solutions LLC is registered with SAM.gov for All Awards. We welcome federal research collaboration, teaming opportunities and scoped pilot programs.
+
+- **UEI:** TAX8V7J6JCD5 · **CAGE:** 25YX8
+- **SBIR/STTR Company Registry:** SBC_002682648
+- **Registered NAICS:** 541715 (primary), 541511, 541512, 541330, 541690
+- **PSC:** AJ12, AJ13, DA01, R425
+
+**Ownership and business types reported in SAM.gov:**
+
+- Women-Owned Small Business
+- Women-Owned Business
+- Minority-Owned Business
+- Black American Owned
+- Self Certified Small Disadvantaged Business
+
+[Full federal registration details](https://sparkpluggedts.com/index.html#federal-contracting) ·
+[Federal inquiries](mailto:sparksupernova@sparkpluggedts.com)
+
 ## Start here
 
 | If you want to… | Go to |
